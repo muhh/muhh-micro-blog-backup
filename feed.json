@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2021/06/18/oho-im-seeing.html",
+				
+				"content_html": "<p>Oho, I&rsquo;m seeing <a href=\"https://www.hammelblog.de/2021/06/18/lissabon-abgeriegelt-in.html\">twitter replies to my blog post on hammelblog.de</a> integrated by micro.blog?\nIncluding push notifications in the app?</p>\n\n<p>What is this nice new magic, <a href=\"https://micro.blog/manton\">@manton</a>?</p>\n",
+				"content_text": "Oho, I'm seeing [twitter replies to my blog post on hammelblog.de](https://www.hammelblog.de/2021/06/18/lissabon-abgeriegelt-in.html) integrated by micro.blog?\r\nIncluding push notifications in the app?\r\n\r\nWhat is this nice new magic, [@manton](https://micro.blog/manton)?\n",
+				"date_published": "2021-06-18T10:42:26+02:00",
+				"url": "https://www.byzero.de/2021/06/18/oho-im-seeing.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2021/06/10/hartnckig.html",
+				
+				"content_html": "<p>Hartnäckig</p>\n\n<p><img src=\"https://www.hammelblog.de/uploads/2021/f17afa55a4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Hartnäckig\n\n\n<img src=\"https://www.hammelblog.de/uploads/2021/f17afa55a4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-06-10T18:19:30+02:00",
+				"url": "https://www.byzero.de/2021/06/10/hartnckig.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2021/06/07/today-is-the.html",
+				
+				"content_html": "<p>Today is the day to decide. Linux laptop or new MacBook Pro? Let’s see if I succumb to the shiny hardware and if macOS gets fixed or if it becomes Linux on the desktop to work with again after more than 10 years.</p>\n\n<p>I’m a bit nervous :) #wwdc</p>\n",
+				"content_text": " Today is the day to decide. Linux laptop or new MacBook Pro? Let’s see if I succumb to the shiny hardware and if macOS gets fixed or if it becomes Linux on the desktop to work with again after more than 10 years.\n\nI’m a bit nervous :) #wwdc\n",
+				"date_published": "2021-06-07T18:12:17+02:00",
+				"url": "https://www.byzero.de/2021/06/07/today-is-the.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2021/05/28/back-on-the.html",
 				
 				"content_html": "<p>Back on the roads</p>\n\n<p><img src=\"uploads/2021/1248a4fd15.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
