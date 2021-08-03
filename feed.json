@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2021/08/03/my-new-mobile.html",
+				
+				"content_html": "<p>My new mobile computer 👨‍💻</p>\n\n<p><img src=\"uploads/2021/96762eb102.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My new mobile computer 👨‍💻 \n\n<img src=\"uploads/2021/96762eb102.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-03T19:54:42+02:00",
+				"url": "https://www.byzero.de/2021/08/03/my-new-mobile.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2021/07/23/enjoying-the-outdoor.html",
+				
+				"content_html": "<p>Enjoying the outdoor office next to the camper lifestyle 🚐</p>\n\n<p><img src=\"uploads/2021/fe6a07f7f4.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Enjoying the outdoor office next to the camper lifestyle 🚐 \n\n<img src=\"uploads/2021/fe6a07f7f4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-07-23T17:35:12+02:00",
+				"url": "https://www.byzero.de/2021/07/23/enjoying-the-outdoor.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2021/07/12/im-quite-happy.html",
 				
 				"content_html": "<p>I&rsquo;m quite happy with the second vaccination jab yesterday. The cross vacccination with Astra first, Biontech second seems to not only include good working 5G, but also NTP. Don&rsquo;t need a watch anymore!</p>\n",
