@@ -7,10 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2021/10/27/todays-reminder-rebeccatohco.html",
+				
+				"content_html": "<p><a href=\"https://rebeccatoh.co/todays-reminder/\">Today’s reminder – rebeccatoh.co</a></p>\n\n<blockquote>\n<p>Let’s intentionally choose to see the fun in life today.</p>\n</blockquote>\n",
+				"content_text": "[Today’s reminder – rebeccatoh.co](https://rebeccatoh.co/todays-reminder/)\n\n> Let’s intentionally choose to see the fun in life today.\n",
+				"date_published": "2021-10-27T09:24:28+02:00",
+				"url": "https://www.byzero.de/2021/10/27/todays-reminder-rebeccatohco.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2021/10/24/181346.html",
+				
+				"content_html": "<p>It’s my favorite time of the year.</p>\n\n<p><img src=\"uploads/2021/8e3b3a0302.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/5f1eaa172d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "It’s my favorite time of the year. \n\n<img src=\"uploads/2021/8e3b3a0302.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/5f1eaa172d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-24T18:13:46+02:00",
+				"url": "https://www.byzero.de/2021/10/24/181346.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2021/10/24/new-connection-at.html",
+				
+				"content_html": "<p>New connection at home 🤤</p>\n\n<p><img src=\"uploads/2021/62b5c57320.jpg\" width=\"600\" height=\"416\" alt=\"\" /></p>\n",
+				"content_text": "New connection at home 🤤 \n\n<img src=\"uploads/2021/62b5c57320.jpg\" width=\"600\" height=\"416\" alt=\"\" />\n",
+				"date_published": "2021-10-24T11:36:24+02:00",
+				"url": "https://www.byzero.de/2021/10/24/new-connection-at.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2021/10/23/the-floating-caterpillar.html",
+				
+				"content_html": "<p>The floating caterpillar</p>\n\n<p><img src=\"uploads/2021/f474ac3457.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The floating caterpillar\n\n<img src=\"uploads/2021/f474ac3457.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-10-23T22:55:15+02:00",
+				"url": "https://www.byzero.de/2021/10/23/the-floating-caterpillar.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2021/10/20/ive-been-using.html",
+				
+				"content_html": "<p>I&rsquo;ve been using a Pomodoro timer – <a href=\"https://www.stayinsession.com\">Session</a> – for the last few days and I&rsquo;m kicking my ass I didn&rsquo;t start using this technique earlier. But I&rsquo;m very happy how well this working with my brain.</p>\n",
+				"content_text": "I've been using a Pomodoro timer – <a href=\"https://www.stayinsession.com\">Session</a> – for the last few days and I'm kicking my ass I didn't start using this technique earlier. But I'm very happy how well this working with my brain. \n",
+				"date_published": "2021-10-20T14:55:19+02:00",
+				"url": "https://www.byzero.de/2021/10/20/ive-been-using.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2021/10/19/manton-did-something.html",
 				"title": "Manton did something beautiful with Drummer and micro.blog",
-				"content_html": "<p>Thanks @manton, I love this!</p>\n\n<p>I can now write in this <a href=\"http://drummer.scripting.com\">nice web-based outliner</a>, hit a button and this shows up in <a href=\"https://www.byzero.de\">my blog hosted on micro.blog.</a></p>\n\n<p>Playing around with Drummer the last couple of days (very superficially), I was already tempted to switch my blog to this way of writing and posting, but now I didn&rsquo;t need to. Phew.</p>\n\n<p><a href=\"https://www.manton.org/2021/10/18/drummer-and-microblog.html\">Manton describes how this works</a> and provides <a href=\"https://www.youtube.com/watch?v=gl45O_puHLs\">an explainer video</a>.</p>\n\n<p>Dave Winer is super happy with this and <a href=\"http://scripting.com/2021/10/18.html#a213615\">posted a podcast episode about the integration</a> - with a lot of deserved praise!</p>\n\n<p>So let&rsquo;s hope that this post gets simply published 😄</p>\n",
-				"content_text": "Thanks @manton, I love this!\n\nI can now write in this <a href=\"http://drummer.scripting.com\">nice web-based outliner</a>, hit a button and this shows up in <a href=\"https://www.byzero.de\">my blog hosted on micro.blog.</a> \n\nPlaying around with Drummer the last couple of days (very superficially), I was already tempted to switch my blog to this way of writing and posting, but now I didn't need to. Phew.\n\n<a href=\"https://www.manton.org/2021/10/18/drummer-and-microblog.html\">Manton describes how this works</a> and provides <a href=\"https://www.youtube.com/watch?v=gl45O_puHLs\">an explainer video</a>.\n\nDave Winer is super happy with this and <a href=\"http://scripting.com/2021/10/18.html#a213615\">posted a podcast episode about the integration</a> - with a lot of deserved praise!\n\nSo let's hope that this post gets simply published 😄\n",
+				"content_html": "<p>Thanks, <a href=\"https://micro.blog/manton\">@manton</a>, I love this!</p>\n\n<p>I can now write in this <a href=\"http://drummer.scripting.com\">nice web-based outliner</a>, hit a button and this shows up in <a href=\"https://www.byzero.de\">my blog hosted on micro.blog.</a></p>\n\n<p>Playing around with Drummer the last couple of days (very superficially), I was already tempted to switch my blog to this way of writing and posting, but now I didn&rsquo;t need to. Phew.</p>\n\n<p><a href=\"https://www.manton.org/2021/10/18/drummer-and-microblog.html\">Manton describes how this works</a> and provides <a href=\"https://www.youtube.com/watch?v=gl45O_puHLs\">an explainer video</a>.</p>\n\n<p>Dave Winer is super happy with this and <a href=\"http://scripting.com/2021/10/18.html#a213615\">posted a podcast episode about the integration</a> - with a lot of deserved praise!</p>\n\n<p>So let&rsquo;s hope that this post gets simply published 😄</p>\n\n<p>It worked!</p>\n\n<p>Even updates to this part of the outline, aka the post, get published in the original post.</p>\n",
+				"content_text": "Thanks, <a href=\"https://micro.blog/manton\">@manton</a>, I love this!\n\nI can now write in this <a href=\"http://drummer.scripting.com\">nice web-based outliner</a>, hit a button and this shows up in <a href=\"https://www.byzero.de\">my blog hosted on micro.blog.</a> \n\nPlaying around with Drummer the last couple of days (very superficially), I was already tempted to switch my blog to this way of writing and posting, but now I didn't need to. Phew.\n\n<a href=\"https://www.manton.org/2021/10/18/drummer-and-microblog.html\">Manton describes how this works</a> and provides <a href=\"https://www.youtube.com/watch?v=gl45O_puHLs\">an explainer video</a>.\n\nDave Winer is super happy with this and <a href=\"http://scripting.com/2021/10/18.html#a213615\">posted a podcast episode about the integration</a> - with a lot of deserved praise!\n\nSo let's hope that this post gets simply published 😄\n\nIt worked!\n\nEven updates to this part of the outline, aka the post, get published in the original post.\n",
 				"date_published": "2021-10-19T13:13:35+02:00",
 				"url": "https://www.byzero.de/2021/10/19/manton-did-something.html"
 			},
@@ -33,16 +73,16 @@
 			{
 				"id": "http://muhh.micro.blog/2021/08/19/only-a-few.html",
 				
-				"content_html": "<p>only a few days ago</p>\n\n<p><img src=\"uploads/2021/a3c93f4a16.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "only a few days ago\n\n<img src=\"uploads/2021/a3c93f4a16.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>only a few days ago</p>\n\n<p><img src=\"https://www.byzero.de/uploads/2021/a3c93f4a16.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "only a few days ago\n\n<img src=\"https://www.byzero.de/uploads/2021/a3c93f4a16.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-08-19T10:15:07+02:00",
 				"url": "https://www.byzero.de/2021/08/19/only-a-few.html"
 			},
 			{
 				"id": "http://muhh.micro.blog/2021/08/12/idylle.html",
 				
-				"content_html": "<p>Idylle</p>\n\n<p><img src=\"uploads/2021/d91b5e2b99.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/73d535f22a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Idylle\n\n<img src=\"uploads/2021/d91b5e2b99.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/73d535f22a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Idylle</p>\n\n<p><img src=\"https://www.byzero.de/uploads/2021/d91b5e2b99.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.byzero.de/uploads/2021/73d535f22a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Idylle\n\n<img src=\"https://www.byzero.de/uploads/2021/d91b5e2b99.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.byzero.de/uploads/2021/73d535f22a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-08-12T20:09:28+02:00",
 				"url": "https://www.byzero.de/2021/08/12/idylle.html"
 			},
