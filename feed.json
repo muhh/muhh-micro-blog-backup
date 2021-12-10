@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2021/12/10/124033.html",
+				
+				"content_html": "<p>💉💉💉🥳</p>\n",
+				"content_text": "💉💉💉🥳\n",
+				"date_published": "2021-12-10T12:40:33+01:00",
+				"url": "https://www.byzero.de/2021/12/10/124033.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2021/11/25/161759.html",
 				
 				"content_html": "<p>🐕📷</p>\n\n<p><img src=\"uploads/2021/dc8bc31dff.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/bfae91f809.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://muhh.micro.blog/2021/10/24/new-connection-at.html",
 				
-				"content_html": "<p>New connection at home 🤤</p>\n\n<p><img src=\"uploads/2021/62b5c57320.jpg\" width=\"600\" height=\"416\" alt=\"\" /></p>\n",
-				"content_text": "New connection at home 🤤 \n\n<img src=\"uploads/2021/62b5c57320.jpg\" width=\"600\" height=\"416\" alt=\"\" />\n",
+				"content_html": "<p>New connection at home 🤤</p>\n\n<p><img src=\"https://www.byzero.de/uploads/2021/62b5c57320.jpg\" width=\"600\" height=\"416\" alt=\"\" /></p>\n",
+				"content_text": "New connection at home 🤤 \n\n<img src=\"https://www.byzero.de/uploads/2021/62b5c57320.jpg\" width=\"600\" height=\"416\" alt=\"\" />\n",
 				"date_published": "2021-10-24T10:36:24+01:00",
 				"url": "https://www.byzero.de/2021/10/24/new-connection-at.html"
 			},
@@ -722,206 +730,6 @@
 				"content_text": "[State of Remote Work 2020](https://lp.buffer.com/state-of-remote-work-2020)\n\n> the workplace of the future is looking more simple — people having the flexibility to work remotely from home with teammates all around the world. \n\nInteresting analysis how remote work happens, what works, what doesn't. \n\nAfter more than ten years working fully remote, I can't imaging anymore to ever go back. \n\nGood thing I don't have to. \n\n/via [LostFocus](https://lostfocus.de/2020/02/43217/)\n\n",
 				"date_published": "2020-02-13T20:08:00+01:00",
 				"url": "https://www.byzero.de/2020/02/13/state-of-remote.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/13/rise-mbfeb.html",
-				
-				"content_html": "<p>„Rise“ 📷 #mbfeb</p>\n\n<p><a href=\"https://www.byzero.de/uploads/2020/3dbb7167ed.jpg\"><img src=\"https://www.byzero.de/uploads/2020/3dbb7167ed.jpg\" width=\"544\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "„Rise“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/3dbb7167ed.jpg\"><img src=\"https://www.byzero.de/uploads/2020/3dbb7167ed.jpg\" width=\"544\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-02-13T19:07:03+01:00",
-				"url": "https://www.byzero.de/2020/02/13/rise-mbfeb.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/12/attachment-mbfeb.html",
-				
-				"content_html": "<p>„Attachment“ 📷 #mbfeb</p>\n\n<p><a href=\"https://www.byzero.de/uploads/2020/0ed43d182c.jpg\"><img src=\"https://www.byzero.de/uploads/2020/0ed43d182c.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "„Attachment“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/0ed43d182c.jpg\"><img src=\"https://www.byzero.de/uploads/2020/0ed43d182c.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-02-12T19:03:49+01:00",
-				"url": "https://www.byzero.de/2020/02/12/attachment-mbfeb.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/11/plain-mbfeb-if.html",
-				
-				"content_html": "<p>„Plain“ 📷 #mbfeb</p>\n\n<p>If it weren’t so windy…</p>\n\n<p><a href=\"https://www.byzero.de/uploads/2020/f4ddee7dcc.jpg\"><img src=\"https://www.byzero.de/uploads/2020/f4ddee7dcc.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "„Plain“ 📷 #mbfeb\n\nIf it weren’t so windy…\n\n<a href=\"https://www.byzero.de/uploads/2020/f4ddee7dcc.jpg\"><img src=\"https://www.byzero.de/uploads/2020/f4ddee7dcc.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-02-11T14:03:39+01:00",
-				"url": "https://www.byzero.de/2020/02/11/plain-mbfeb-if.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/10/sign-mbfeb-lastsummer.html",
-				
-				"content_html": "<p>„Sign“ 📷 #mbfeb #lastsummer</p>\n\n<p><a href=\"https://www.byzero.de/uploads/2020/ebbdc134dc.jpg\"><img src=\"https://www.byzero.de/uploads/2020/ebbdc134dc.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "„Sign“ 📷 #mbfeb #lastsummer\n\n<a href=\"https://www.byzero.de/uploads/2020/ebbdc134dc.jpg\"><img src=\"https://www.byzero.de/uploads/2020/ebbdc134dc.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-02-10T19:17:36+01:00",
-				"url": "https://www.byzero.de/2020/02/10/sign-mbfeb-lastsummer.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/09/lull-mbfeb-yearsago.html",
-				
-				"content_html": "<p>„Lull“ #mbfeb 📷 #9yearsago</p>\n\n<p><a href=\"https://www.byzero.de/uploads/2020/edbc64ca04.jpg\"><img src=\"https://www.byzero.de/uploads/2020/edbc64ca04.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "„Lull“ #mbfeb 📷 #9yearsago\n\n<a href=\"https://www.byzero.de/uploads/2020/edbc64ca04.jpg\"><img src=\"https://www.byzero.de/uploads/2020/edbc64ca04.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-02-09T21:44:14+01:00",
-				"url": "https://www.byzero.de/2020/02/09/lull-mbfeb-yearsago.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/09/contrast-mbfeb.html",
-				
-				"content_html": "<p>&ldquo;contrast&rdquo; #mbfeb</p>\n\n<p><img src=\"https://www.byzero.de/uploads/2020/c6f2ecf21f.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\"contrast\" #mbfeb\n\n<img src=\"https://www.byzero.de/uploads/2020/c6f2ecf21f.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-02-09T01:18:48+01:00",
-				"url": "https://www.byzero.de/2020/02/09/contrast-mbfeb.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/09/ich-habe-heute.html",
-				
-				"content_html": "<p>Ich habe heute ein schafkopf spiel bei „grün sticht“ der hammelburger grünen gewonnen. Weil ich vorletzter wurde ^^</p>\n\n<p>Dafür habe ich lieberweise vom Gewinner des Turniers und anderen Schafskopflegenden ein paar Spiele Training bekommen.  Ein schöner Abend!</p>\n",
-				"content_text": "Ich habe heute ein schafkopf spiel bei „grün sticht“ der hammelburger grünen gewonnen. Weil ich vorletzter wurde ^^\n\nDafür habe ich lieberweise vom Gewinner des Turniers und anderen Schafskopflegenden ein paar Spiele Training bekommen.  Ein schöner Abend!\n",
-				"date_published": "2020-02-09T01:08:00+01:00",
-				"url": "https://www.byzero.de/2020/02/09/ich-habe-heute.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/08/groer-ansturm-in.html",
-				
-				"content_html": "<p>Großer Ansturm in der Sonne im und überm Saaletal #hammelburg #wirliebenhammelburg</p>\n\n<p><img src=\"https://www.byzero.de/uploads/2020/d17fbbac28.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Großer Ansturm in der Sonne im und überm Saaletal #hammelburg #wirliebenhammelburg\n\n<img src=\"https://www.byzero.de/uploads/2020/d17fbbac28.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-02-08T15:29:07+01:00",
-				"url": "https://www.byzero.de/2020/02/08/groer-ansturm-in.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/07/above-mbfeb.html",
-				
-				"content_html": "<p>„Above“ #mbfeb 📷</p>\n\n<p><a href=\"https://www.byzero.de/uploads/2020/11bcdd7ba2.jpg\"><img src=\"https://www.byzero.de/uploads/2020/11bcdd7ba2.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "„Above“ #mbfeb 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/11bcdd7ba2.jpg\"><img src=\"https://www.byzero.de/uploads/2020/11bcdd7ba2.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-02-07T14:34:17+01:00",
-				"url": "https://www.byzero.de/2020/02/07/above-mbfeb.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/06/plant-mbfeb.html",
-				
-				"content_html": "<p>„Plant“ #mbfeb 📷</p>\n\n<p><a href=\"https://www.byzero.de/uploads/2020/ec51b9628d.jpg\"><img src=\"https://www.byzero.de/uploads/2020/ec51b9628d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "„Plant“ #mbfeb 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/ec51b9628d.jpg\"><img src=\"https://www.byzero.de/uploads/2020/ec51b9628d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-02-06T20:58:07+01:00",
-				"url": "https://www.byzero.de/2020/02/06/plant-mbfeb.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/06/den-anfngen-am.html",
-				
-				"content_html": "<p><a href=\"https://anmutunddemut.de/2020/02/06/den-anfaengen-am-arsch.html\">… den Anfängen am Arsch – anmut und demut</a></p>\n\n<blockquote>\n<p>Das Ergebniss ist eine Katastrophe, eine Katastrophe die man vielleicht nicht hat kommen sehen, die aber eines beweist: Bei der AfD nicht vom Schlimmsten auszugehen ist verantwortungslos und naiv</p>\n</blockquote>\n",
-				"content_text": "[… den Anfängen am Arsch – anmut und demut](https://anmutunddemut.de/2020/02/06/den-anfaengen-am-arsch.html)\n\n> Das Ergebniss ist eine Katastrophe, eine Katastrophe die man vielleicht nicht hat kommen sehen, die aber eines beweist: Bei der AfD nicht vom Schlimmsten auszugehen ist verantwortungslos und naiv \n",
-				"date_published": "2020-02-06T12:21:51+01:00",
-				"url": "https://www.byzero.de/2020/02/06/den-anfngen-am.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/05/hide-mbfeb-yearsago.html",
-				
-				"content_html": "<p>„Hide“ #mbfeb #6yearsago 📷</p>\n\n<p><a href=\"https://www.byzero.de/uploads/2020/39b072e148.jpg\"><img src=\"https://www.byzero.de/uploads/2020/39b072e148.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "„Hide“ #mbfeb #6yearsago 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/39b072e148.jpg\"><img src=\"https://www.byzero.de/uploads/2020/39b072e148.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-02-05T15:07:46+01:00",
-				"url": "https://www.byzero.de/2020/02/05/hide-mbfeb-yearsago.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/04/blue-spot-mbfeb.html",
-				
-				"content_html": "<p>Blue spot #mbfeb 📷</p>\n\n<p><a href=\"https://www.byzero.de/uploads/2020/431e9e2d22.jpg\"><img src=\"https://www.byzero.de/uploads/2020/431e9e2d22.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Blue spot #mbfeb 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/431e9e2d22.jpg\"><img src=\"https://www.byzero.de/uploads/2020/431e9e2d22.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-02-04T16:18:00+01:00",
-				"url": "https://www.byzero.de/2020/02/04/blue-spot-mbfeb.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/03/day-of-mbfeb.html",
-				
-				"content_html": "<p>Day 3 of #mbfeb: „reflect“. 📷</p>\n\n<p>I know, not so much. But that’s how it is today.</p>\n\n<p><a href=\"https://www.byzero.de/uploads/2020/93a4274866.jpg\"><img src=\"https://www.byzero.de/uploads/2020/93a4274866.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Day 3 of #mbfeb: „reflect“. 📷\n\nI know, not so much. But that’s how it is today. \n\n<a href=\"https://www.byzero.de/uploads/2020/93a4274866.jpg\"><img src=\"https://www.byzero.de/uploads/2020/93a4274866.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-02-03T13:52:41+01:00",
-				"url": "https://www.byzero.de/2020/02/03/day-of-mbfeb.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/02/end-of-a.html",
-				
-				"content_html": "<p>End of a dark day in sight #mbfeb 📷</p>\n\n<p><a href=\"https://www.byzero.de/uploads/2020/86afd5e452.jpg\"><img src=\"https://www.byzero.de/uploads/2020/86afd5e452.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "End of a dark day in sight #mbfeb 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/86afd5e452.jpg\"><img src=\"https://www.byzero.de/uploads/2020/86afd5e452.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-02-02T19:44:57+01:00",
-				"url": "https://www.byzero.de/2020/02/02/end-of-a.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/01/since-i-almost.html",
-				
-				"content_html": "<p>Since I almost missed the first day of the <a href=\"https://micro.welltempered.net/2020/01/31/february-photoblogging-challenge.html\">photoblogging challenge on micro.blog</a> I had to get creative and open up the door to our garden to let in some unusual warm night air.</p>\n\n<p><img src=\"https://www.byzero.de/uploads/2020/def648ed3b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Since I almost missed the first day of the [photoblogging challenge on micro.blog](https://micro.welltempered.net/2020/01/31/february-photoblogging-challenge.html) I had to get creative and open up the door to our garden to let in some unusual warm night air.  \n\n<img src=\"https://www.byzero.de/uploads/2020/def648ed3b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-02-01T23:04:28+01:00",
-				"url": "https://www.byzero.de/2020/02/01/since-i-almost.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/02/01/i-learned-cutting.html",
-				
-				"content_html": "<p>I learned cutting trees and other woody plants today.</p>\n\n<p>This was a lot of fun and should provide useful to help our apple, cherry, quince, red currants and the other fruit bearing plants &ldquo;to get back into shape&rdquo;. And all the roses as well, of course.</p>\n\n<p>The last 4 years we have only tried to keep excessive growth in check and learn to understand all the plants, this year it&rsquo;s more about getting more fruits :)</p>\n",
-				"content_text": "I learned cutting trees and other woody plants today. \n\nThis was a lot of fun and should provide useful to help our apple, cherry, quince, red currants and the other fruit bearing plants \"to get back into shape\". And all the roses as well, of course. \n\nThe last 4 years we have only tried to keep excessive growth in check and learn to understand all the plants, this year it's more about getting more fruits :)\n",
-				"date_published": "2020-02-01T22:59:21+01:00",
-				"url": "https://www.byzero.de/2020/02/01/i-learned-cutting.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/01/15/es-ist-warm.html",
-				
-				"content_html": "<p>Es ist warm in #hammelburg. Und sauhell. #sunny #wirliebenhammelburg #mittagspause</p>\n\n<p><img src=\"https://www.byzero.de/uploads/2020/c24e204da2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Es ist warm in #hammelburg. Und sauhell. #sunny #wirliebenhammelburg #mittagspause\n\n<img src=\"https://www.byzero.de/uploads/2020/c24e204da2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2020-01-15T12:42:54+01:00",
-				"url": "https://www.byzero.de/2020/01/15/es-ist-warm.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/01/13/this-is-more.html",
-				
-				"content_html": "<p>This is more or less a test post to do what is in the screenshot. What it does? Grab a Instagram post, download the pic and post it to my new home at micro.blog using #micropub</p>\n\n<p><img src=\"https://www.byzero.de/uploads/2020/73f490eb85.jpg\" width=\"600\" height=\"358\" alt=\"\" /></p>\n",
-				"content_text": "This is more or less a test post to do what is in the screenshot. What it does? Grab a Instagram post, download the pic and post it to my new home at micro.blog using #micropub\n\n<img src=\"https://www.byzero.de/uploads/2020/73f490eb85.jpg\" width=\"600\" height=\"358\" alt=\"\" />\n",
-				"date_published": "2020-01-13T22:46:52+01:00",
-				"url": "https://www.byzero.de/2020/01/13/this-is-more.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/01/11/on-the-bright.html",
-				
-				"content_html": "<p>On the bright side</p>\n\n<p><a href=\"https://www.byzero.de/uploads/2020/e0ca54b3f6.jpg\"><img src=\"https://www.byzero.de/uploads/2020/e0ca54b3f6.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "On the bright side \n\n<a href=\"https://www.byzero.de/uploads/2020/e0ca54b3f6.jpg\"><img src=\"https://www.byzero.de/uploads/2020/e0ca54b3f6.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-01-11T14:53:00+01:00",
-				"url": "https://www.byzero.de/2020/01/11/on-the-bright.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/01/08/brought-back-some.html",
-				
-				"content_html": "<p>Brought back some paper into my life 📷</p>\n\n<p><a href=\"https://www.byzero.de/uploads/2020/ff6093ed3e.jpg\"><img src=\"https://www.byzero.de/uploads/2020/ff6093ed3e.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Brought back some paper into my life 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/ff6093ed3e.jpg\"><img src=\"https://www.byzero.de/uploads/2020/ff6093ed3e.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-01-08T16:21:26+01:00",
-				"url": "https://www.byzero.de/2020/01/08/brought-back-some.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/01/07/brigens-kann-man.html",
-				
-				"content_html": "<p>Übrigens kann man <a href=\"https://t.me/telemuhh\">dieses Blog  bei telegram</a> lesen. Ich mag ja was telegram so produziert.</p>\n",
-				"content_text": "Übrigens kann man [dieses Blog  bei telegram](https://t.me/telemuhh) lesen. Ich mag ja was telegram so produziert.\n",
-				"date_published": "2020-01-07T11:12:40+01:00",
-				"url": "https://www.byzero.de/2020/01/07/brigens-kann-man.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/01/06/es-ist-mal.html",
-				
-				"content_html": "<p>Es ist mal wieder Zeit für schwimmen in meinem Leben.\nIst schon wieder viel zu lange her.</p>\n\n<p>Zum Einstieg hab ich mir 2x 1000m mit kleiner Pause gegönnt. Entspannt.</p>\n\n<p><a href=\"https://www.byzero.de/uploads/2020/e8fa04289b.jpg\"><img src=\"https://www.byzero.de/uploads/2020/e8fa04289b.jpg\" width=\"535\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2020/79ceda7adb.jpg\"><img src=\"https://www.byzero.de/uploads/2020/79ceda7adb.jpg\" width=\"524\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Es ist mal wieder Zeit für schwimmen in meinem Leben. \nIst schon wieder viel zu lange her. \n\nZum Einstieg hab ich mir 2x 1000m mit kleiner Pause gegönnt. Entspannt. \n\n<a href=\"https://www.byzero.de/uploads/2020/e8fa04289b.jpg\"><img src=\"https://www.byzero.de/uploads/2020/e8fa04289b.jpg\" width=\"535\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2020/79ceda7adb.jpg\"><img src=\"https://www.byzero.de/uploads/2020/79ceda7adb.jpg\" width=\"524\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-01-06T18:04:00+01:00",
-				"url": "https://www.byzero.de/2020/01/06/es-ist-mal.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/01/04/lieblingsort.html",
-				
-				"content_html": "<p>Lieblingsort 📷</p>\n\n<p><a href=\"https://www.byzero.de/uploads/2020/de00bed5cb.jpg\"><img src=\"https://www.byzero.de/uploads/2020/de00bed5cb.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "Lieblingsort 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/de00bed5cb.jpg\"><img src=\"https://www.byzero.de/uploads/2020/de00bed5cb.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
-				"date_published": "2020-01-04T08:05:00+01:00",
-				"url": "https://www.byzero.de/2020/01/04/lieblingsort.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2020/01/03/mein-antrieb-dieses.html",
-				"title": "Mein Antrieb dieses Jahr: Rabatz!",
-				"content_html": "\n\n<h2 id=\"das-blog-ist-tot\">das blog ist tot</h2>\n\n<p>ich hab byzero.de geleert. es war notwendig. Warum?</p>\n\n<h2 id=\"the-year-of-ruckus\">The year of ruckus</h2>\n\n<p>Vor kurzem hab ich ein bookmark auf einen <a href=\"https://seths.blog/2019/01/the-top-5/\">kleinen Artikel von Seth Godin</a> gesetzt, aus dem ich folgendes zitiert habe:</p>\n\n<blockquote>\n<p>The thing is, you’re not competing with the other 19 people, not really. You’re competing with yourself, competing in a journey to determine how much you care about making an impact. Here’s to a powerful and productive year. Make a ruckus.</p>\n</blockquote>\n\n<p>Ruckus ist ein tolles Wort, im deutschen heisst es Rabatz.<br />\n<a href=\"https://www.geewiz.dev/2019/12/29/put-a-dent.html\">Jochen hat das aufgegriffen</a> und es als Neujahrsvorsatz bei mir gesehen. Ich mach keine Vorsätze mehr und ich war auch noch nicht soweit mir konkrete Gedanken zu 2020 zu machen, aber es hat mir so gut gefallen, dass ich es zu <a href=\"https://micro.blog/muhh/7481244\">meinem &ldquo;Yearly theme&rdquo; erklärt habe</a>. Das <a href=\"https://www.thethemesystem.com\">Cortex Theme System</a> ist die Inspiration dazu was das für mich bedeutet.</p>\n\n<p>Ich verstehe darunter etwas sehr einfaches: wer mich kennt, weiss dass ich sehr ruhig bin und wenig den Mund aufmache. &ldquo;Ein guter Zuhörer&rdquo;…\nIn den letzten Monaten habe ich gerade bei meiner Arbeit bei den <a href=\"https://www.gruene-kg.de\">Grünen</a> aber immer häufiger meine Meinung kundgetan. Und das fühlte sich so gut an, dass ich seitdem immer mehr davon mache. Das geht jetzt soweit, dass ich in Hammelburg für den Stadtrat kandidiere und ernsthaft vorhabe, dort reinzukommen. Das geht sogar soweit, dass ich zu einem zweitem Blog, meinem <a href=\"https://hammelblog.de\">Blog zu Hammelburg - dem hammelblog</a> greifen werde.</p>\n\n<p>Aber nicht nur politisch, sondern auch in Beruf und dem restlichen Leben wird das ein Leitfaden für mich sein. <strong>Rabatz machen!</strong></p>\n\n<p>Das heisst nicht, dass ich Radau machen werde, nenenene. Aber ich halte mich weniger zurück, werde andere und vor allem mich herausfordern.</p>\n\n<h2 id=\"lang-lebe-das-blog\">lang lebe das blog!</h2>\n\n<p>Rabatz machen heisst nicht an Blogsystemen rumzubasteln, Themes zu entwickeln, oder Deployment- und Buildumgebungen zu optimieren, sondern das sein zu lassen und ein System zu nutzen, dass mir das alles abnimmt.<br />\nHier habe ich mich für <a href=\"https://micro.blog\">micro.blog</a> entschieden, es ist die Platform, die genau mit dem was mir wichtig ist Hand in Hand geht. Der Hilfeartikel von <a href=\"https://help.micro.blog/2018/twitter-differences/\">micro.blog im Vergleich zu twitter</a> beschreibt das alles ganz gut.  Bei Gelegenheit werde ich sicher noch etwas dazu schreiben und genauer erklären.</p>\n\n<p>Kommentare direkt gibt es erstmal nicht, aber mit einem <a href=\"https://micro.blog/muhh\">kostenlosen micro.blog Account</a> kann man Teil dieser feinen Community und Teil der Konversation werden. Oder man schreibt mir über einen der <a href=\"https://byzero.de/markus/\">diversen anderen Kanäle unter denen ich erreichbar bin</a>. Ich werde reagieren - versprochen!</p>\n\n<p>Die alten Inhalte sind jetzt erstmal weg, allerdings werde ich mich bemühen sie auch hier herein zu bekommen. Aber das ist jetzt nicht so wichtig.</p>\n\n<p>Ich freue mich auf dieses neue Jahr. Nachdem 2018 von Extremen und 2019 privat von Familie und beruflich von Aufräum- und Grundlagenarbeiten bestimmt war, will ich 2020 wieder raus aus dem Hintergrund, nach vorne.</p>\n\n<p>Rabatz machen!</p>\n",
-				"content_text": "## das blog ist tot\n\nich hab byzero.de geleert. es war notwendig. Warum?\n\n## The year of ruckus\n\nVor kurzem hab ich ein bookmark auf einen [kleinen Artikel von Seth Godin](https://seths.blog/2019/01/the-top-5/) gesetzt, aus dem ich folgendes zitiert habe:\n\n> The thing is, you’re not competing with the other 19 people, not really. You’re competing with yourself, competing in a journey to determine how much you care about making an impact. Here’s to a powerful and productive year. Make a ruckus.\n\nRuckus ist ein tolles Wort, im deutschen heisst es Rabatz.  \n[Jochen hat das aufgegriffen](https://www.geewiz.dev/2019/12/29/put-a-dent.html) und es als Neujahrsvorsatz bei mir gesehen. Ich mach keine Vorsätze mehr und ich war auch noch nicht soweit mir konkrete Gedanken zu 2020 zu machen, aber es hat mir so gut gefallen, dass ich es zu [meinem \"Yearly theme\" erklärt habe](https://micro.blog/muhh/7481244). Das [Cortex Theme System](https://www.thethemesystem.com) ist die Inspiration dazu was das für mich bedeutet.\n\nIch verstehe darunter etwas sehr einfaches: wer mich kennt, weiss dass ich sehr ruhig bin und wenig den Mund aufmache. \"Ein guter Zuhörer\"…\nIn den letzten Monaten habe ich gerade bei meiner Arbeit bei den [Grünen](https://www.gruene-kg.de) aber immer häufiger meine Meinung kundgetan. Und das fühlte sich so gut an, dass ich seitdem immer mehr davon mache. Das geht jetzt soweit, dass ich in Hammelburg für den Stadtrat kandidiere und ernsthaft vorhabe, dort reinzukommen. Das geht sogar soweit, dass ich zu einem zweitem Blog, meinem [Blog zu Hammelburg - dem hammelblog](https://hammelblog.de) greifen werde. \n\nAber nicht nur politisch, sondern auch in Beruf und dem restlichen Leben wird das ein Leitfaden für mich sein. **Rabatz machen!** \n\nDas heisst nicht, dass ich Radau machen werde, nenenene. Aber ich halte mich weniger zurück, werde andere und vor allem mich herausfordern. \n\n## lang lebe das blog!\n\nRabatz machen heisst nicht an Blogsystemen rumzubasteln, Themes zu entwickeln, oder Deployment- und Buildumgebungen zu optimieren, sondern das sein zu lassen und ein System zu nutzen, dass mir das alles abnimmt.  \nHier habe ich mich für [micro.blog](https://micro.blog) entschieden, es ist die Platform, die genau mit dem was mir wichtig ist Hand in Hand geht. Der Hilfeartikel von [micro.blog im Vergleich zu twitter](https://help.micro.blog/2018/twitter-differences/) beschreibt das alles ganz gut.  Bei Gelegenheit werde ich sicher noch etwas dazu schreiben und genauer erklären. \n\nKommentare direkt gibt es erstmal nicht, aber mit einem [kostenlosen micro.blog Account](https://micro.blog/muhh) kann man Teil dieser feinen Community und Teil der Konversation werden. Oder man schreibt mir über einen der [diversen anderen Kanäle unter denen ich erreichbar bin](https://byzero.de/markus/). Ich werde reagieren - versprochen!\n\nDie alten Inhalte sind jetzt erstmal weg, allerdings werde ich mich bemühen sie auch hier herein zu bekommen. Aber das ist jetzt nicht so wichtig. \n\nIch freue mich auf dieses neue Jahr. Nachdem 2018 von Extremen und 2019 privat von Familie und beruflich von Aufräum- und Grundlagenarbeiten bestimmt war, will ich 2020 wieder raus aus dem Hintergrund, nach vorne.\n\nRabatz machen!\n",
-				"date_published": "2020-01-03T17:53:55+01:00",
-				"url": "https://www.byzero.de/2020/01/03/mein-antrieb-dieses.html"
 			}
 	]
 }
