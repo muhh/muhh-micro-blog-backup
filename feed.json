@@ -1,11 +1,35 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "byzero.de",
+	"title": "0/",
 	"icon": "https://micro.blog/muhh/avatar.jpg",
 	"home_page_url": "https://www.byzero.de/",
 	"feed_url": "https://www.byzero.de/feed.json",
 	"items": [
 		
+			{
+				"id": "http://muhh.micro.blog/2022/02/08/the-experiment-to.html",
+				
+				"content_html": "<p>The <!-- raw HTML omitted -->experiment to pause my usage of attention grabber sites<!-- raw HTML omitted --> is working out quite ok. Not 100% perfect, but I&rsquo;m satisfied nevertheless.</p>\n<p>I only struggle to keep my hands off of Twitter. Sometimes it is just too easy to get lost there. Mostly because of the good people over there.<br>\nFacebook and Instagram on the other hand, I don&rsquo;t miss them much and I only did one or two occasional checks.</p>\n<p>I&rsquo;m going to get strict again and try not to visit any of these sites, but I already reactivated cross-posting to <a href=\"https://twitter.com/muhh\">my Twitter</a> again and will check replies.<br>\nI subscribed to them using the <a href=\"https://netnewswire.com/help/mac/6.1/en/twitter-feeds\">Twitter integration of NetNewsWire</a>.  This is an excellent feature that removes almost all of the distraction capacity of the bird page and reduces tweets to the absolute minimum.</p>\n<p>So let&rsquo;s see how the next week of this journey continues.</p>\n",
+				"content_text": "The <a class=\"u-in-reply-to\" href=\"https://www.byzero.de/2022/02/02/im-jumping-on.html\">experiment to pause my usage of attention grabber sites</a> is working out quite ok. Not 100% perfect, but I'm satisfied nevertheless.\r\n\r\nI only struggle to keep my hands off of Twitter. Sometimes it is just too easy to get lost there. Mostly because of the good people over there.  \r\nFacebook and Instagram on the other hand, I don't miss them much and I only did one or two occasional checks. \r\n\r\nI'm going to get strict again and try not to visit any of these sites, but I already reactivated cross-posting to [my Twitter](https://twitter.com/muhh) again and will check replies.   \r\nI subscribed to them using the [Twitter integration of NetNewsWire](https://netnewswire.com/help/mac/6.1/en/twitter-feeds).  This is an excellent feature that removes almost all of the distraction capacity of the bird page and reduces tweets to the absolute minimum.\r\n\r\nSo let's see how the next week of this journey continues.\n",
+				"date_published": "2022-02-08T21:25:05+01:00",
+				"url": "https://www.byzero.de/2022/02/08/the-experiment-to.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/02/08/die-faschingsferien-fallen.html",
+				
+				"content_html": "<p>Die Faschingsferien fallen dieses Jahr nicht aus, oder?</p>\n",
+				"content_text": "Die Faschingsferien fallen dieses Jahr nicht aus, oder?\n",
+				"date_published": "2022-02-08T21:00:48+01:00",
+				"url": "https://www.byzero.de/2022/02/08/die-faschingsferien-fallen.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/02/08/nchster-pcr-pooltest.html",
+				
+				"content_html": "<p>Nächster PCR Pooltest der Tochter positiv. Das wird jetzt mindestens jeden Montag so weiter gehen.</p>\n<p>Und jetzt heisst es wieder süße Träume bis morgen vormittag irgendwann das Ergebnis des Einzeltests kommt. Hoffentlich.</p>\n",
+				"content_text": "Nächster PCR Pooltest der Tochter positiv. Das wird jetzt mindestens jeden Montag so weiter gehen. \r\n\r\nUnd jetzt heisst es wieder süße Träume bis morgen vormittag irgendwann das Ergebnis des Einzeltests kommt. Hoffentlich.  \n",
+				"date_published": "2022-02-08T00:03:36+01:00",
+				"url": "https://www.byzero.de/2022/02/08/nchster-pcr-pooltest.html"
+			},
 			{
 				"id": "http://muhh.micro.blog/2022/02/02/im-jumping-on.html",
 				
