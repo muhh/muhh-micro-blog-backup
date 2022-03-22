@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2022/03/22/sarscov-has-entered.html",
+				
+				"content_html": "<p>SARS-CoV-2 has entered the building.</p>\n",
+				"content_text": "SARS-CoV-2 has entered the building. \n",
+				"date_published": "2022-03-22T12:33:46+01:00",
+				"url": "https://www.byzero.de/2022/03/22/sarscov-has-entered.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2022/03/14/sitze-am-kchentisch.html",
 				
 				"content_html": "<p>Sitze am Küchentisch um beim Arbeiten die Gesellschaft des lieben Hundes zu haben.</p>\n<p>„Time after time“ nach Miles Davis im Ohr und feiner Kaffee vor mir.</p>\n<p>Seit gefühlt Jahren habe ich heute mal 4 Stunden an einem Montag morgen &ldquo;für mich&rdquo;.</p>\n<p>Ich kann mich in diesem Bild sehen und es ist mir egal.</p>\n<hr>\n<p>Sitting at the kitchen table to have the company of the dear dog while I work.</p>\n<p>Miles Davis' &ldquo;Time after Time&rdquo; in my ear and fine coffee in front of me.</p>\n<p>For what feels like years, I have 4 hours &ldquo;to myself&rdquo; on a Monday morning.</p>\n<p>I can see myself in this picture and I can&rsquo;t care anymore.</p>\n<!-- raw HTML omitted -->\n",
@@ -66,7 +74,7 @@
 				"id": "http://muhh.micro.blog/2022/01/27/a-week-ago.html",
 				
 				"content_html": "<p>A week ago today</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A week ago today\n\n<img src=\"https://www.byzero.de/uploads/2022/e90557dbcb.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "A week ago today\n\n<img src=\"uploads/2022/e90557dbcb.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-01-27T13:37:20+01:00",
 				"url": "https://www.byzero.de/2022/01/27/a-week-ago.html"
 			},
@@ -91,7 +99,7 @@
 				"id": "http://muhh.micro.blog/2022/01/24/coronamassnahmen-sind-wichtig.html",
 				
 				"content_html": "<p>„Coronamassnahmen sind wichtig“</p>\n<p>Meine Tochter platziert ihren Gegenprotest den dann doch nicht aufgetauchten Pseudodemonstranten vors Haus.</p>\n<p>Und ich grinse über beide Backen als ich das zufällig entdecke.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Coronamassnahmen sind wichtig“\n\nMeine Tochter platziert ihren Gegenprotest den dann doch nicht aufgetauchten Pseudodemonstranten vors Haus.\n\nUnd ich grinse über beide Backen als ich das zufällig entdecke.\n\n<img src=\"https://www.byzero.de/uploads/2022/b8f49dd4fe.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.byzero.de/uploads/2022/467e85626e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "„Coronamassnahmen sind wichtig“\n\nMeine Tochter platziert ihren Gegenprotest den dann doch nicht aufgetauchten Pseudodemonstranten vors Haus.\n\nUnd ich grinse über beide Backen als ich das zufällig entdecke.\n\n<img src=\"uploads/2022/b8f49dd4fe.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2022/467e85626e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-24T20:55:00+01:00",
 				"url": "https://www.byzero.de/2022/01/24/coronamassnahmen-sind-wichtig.html",
 				"tags": ["hammelburg"]
@@ -108,7 +116,7 @@
 				"id": "http://muhh.micro.blog/2022/01/15/shades-of-fog.html",
 				
 				"content_html": "<p>Shades of fog</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Shades of fog\n\n<img src=\"https://www.byzero.de/uploads/2022/a1ef80dbc9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Shades of fog\n\n<img src=\"uploads/2022/a1ef80dbc9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-15T12:06:00+01:00",
 				"url": "https://www.byzero.de/2022/01/15/shades-of-fog.html",
 				"tags": ["hammelburg"]
@@ -117,7 +125,7 @@
 				"id": "http://muhh.micro.blog/2022/01/15/weird-fog.html",
 				
 				"content_html": "<p>weird fog</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "weird fog\n\n<img src=\"https://www.byzero.de/uploads/2022/4e54372f09.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "weird fog\n\n<img src=\"uploads/2022/4e54372f09.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-15T10:39:00+01:00",
 				"url": "https://www.byzero.de/2022/01/15/weird-fog.html",
 				"tags": ["hammelburg"]
@@ -135,7 +143,7 @@
 				"id": "http://muhh.micro.blog/2022/01/13/this-computer-wants.html",
 				
 				"content_html": "<p>This computer wants to be replaced by a Linux desktop even way before the <a href=\"https://starlabs.systems/pages/starlite\">ordered Linux laptop</a> arrives, doesn&rsquo;t it?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This computer wants to be replaced by a Linux desktop even way before the [ordered Linux laptop](https://starlabs.systems/pages/starlite) arrives, doesn't it?\n\n\n\n<img src=\"https://www.byzero.de/uploads/2022/db0976604f.jpg\" width=\"498\" height=\"558\" alt=\"\" />\n",
+				"content_text": "This computer wants to be replaced by a Linux desktop even way before the [ordered Linux laptop](https://starlabs.systems/pages/starlite) arrives, doesn't it?\n\n\n\n<img src=\"uploads/2022/db0976604f.jpg\" width=\"498\" height=\"558\" alt=\"\" />\n",
 				"date_published": "2022-01-13T12:16:18+01:00",
 				"url": "https://www.byzero.de/2022/01/13/this-computer-wants.html"
 			},
@@ -151,7 +159,7 @@
 				"id": "http://muhh.micro.blog/2022/01/11/oldschool.html",
 				
 				"content_html": "<p>Oldschool</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oldschool\n\n<img src=\"https://www.byzero.de/uploads/2022/4eeed74432.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Oldschool\n\n<img src=\"uploads/2022/4eeed74432.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-01-11T08:29:00+01:00",
 				"url": "https://www.byzero.de/2022/01/11/oldschool.html",
 				"tags": ["hammelburg"]
@@ -168,7 +176,7 @@
 				"id": "http://muhh.micro.blog/2021/12/29/getting-close-to.html",
 				
 				"content_html": "<p>Getting close to brain standstill</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Getting close to brain standstill \n\n<img src=\"https://www.byzero.de/uploads/2021/8fe2105d56.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Getting close to brain standstill \n\n<img src=\"uploads/2021/8fe2105d56.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-12-29T17:48:44+01:00",
 				"url": "https://www.byzero.de/2021/12/29/getting-close-to.html"
 			},
@@ -216,7 +224,7 @@
 				"id": "http://muhh.micro.blog/2021/11/25/161759.html",
 				
 				"content_html": "<p>🐕📷</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "🐕📷\n\n<img src=\"https://www.byzero.de/uploads/2021/dc8bc31dff.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.byzero.de/uploads/2021/bfae91f809.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "🐕📷\n\n<img src=\"uploads/2021/dc8bc31dff.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/bfae91f809.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-11-25T16:17:59+01:00",
 				"url": "https://www.byzero.de/2021/11/25/161759.html"
 			},
@@ -224,7 +232,7 @@
 				"id": "http://muhh.micro.blog/2021/11/11/und-es-wurde.html",
 				
 				"content_html": "<p>Und es wurde wärmer</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Und es wurde wärmer\n\n<img src=\"https://www.byzero.de/uploads/2022/2bb9b1fce5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Und es wurde wärmer\n\n<img src=\"uploads/2022/2bb9b1fce5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-11-11T14:00:00+01:00",
 				"url": "https://www.byzero.de/2021/11/11/und-es-wurde.html",
 				"tags": ["hammelburg"]
@@ -233,7 +241,7 @@
 				"id": "http://muhh.micro.blog/2021/10/29/this-stream-is.html",
 				
 				"content_html": "<p>This stream is going to include #dogcontent, probably a lot</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This stream is going to include #dogcontent, probably a lot\n\n<img src=\"https://www.byzero.de/uploads/2021/dfc45e5e89.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "This stream is going to include #dogcontent, probably a lot\n\n<img src=\"uploads/2021/dfc45e5e89.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-29T20:41:28+01:00",
 				"url": "https://www.byzero.de/2021/10/29/this-stream-is.html"
 			},
@@ -258,7 +266,7 @@
 				"id": "http://muhh.micro.blog/2021/10/24/181346.html",
 				
 				"content_html": "<p>It’s my favorite time of the year.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "It’s my favorite time of the year. \n\n<img src=\"https://www.byzero.de/uploads/2021/8e3b3a0302.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.byzero.de/uploads/2021/5f1eaa172d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "It’s my favorite time of the year. \n\n<img src=\"uploads/2021/8e3b3a0302.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/5f1eaa172d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-24T17:13:00+01:00",
 				"url": "https://www.byzero.de/2021/10/24/181346.html",
 				"tags": ["hammelburg"]
@@ -267,7 +275,7 @@
 				"id": "http://muhh.micro.blog/2021/10/24/new-connection-at.html",
 				
 				"content_html": "<p>New connection at home 🤤</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "New connection at home 🤤 \n\n<img src=\"https://www.byzero.de/uploads/2021/62b5c57320.jpg\" width=\"600\" height=\"416\" alt=\"\" />\n",
+				"content_text": "New connection at home 🤤 \n\n<img src=\"uploads/2021/62b5c57320.jpg\" width=\"600\" height=\"416\" alt=\"\" />\n",
 				"date_published": "2021-10-24T10:36:24+01:00",
 				"url": "https://www.byzero.de/2021/10/24/new-connection-at.html"
 			},
@@ -275,7 +283,7 @@
 				"id": "http://muhh.micro.blog/2021/10/23/the-floating-caterpillar.html",
 				
 				"content_html": "<p>The floating caterpillar</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The floating caterpillar\n\n<img src=\"https://www.byzero.de/uploads/2021/f474ac3457.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "The floating caterpillar\n\n<img src=\"uploads/2021/f474ac3457.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-10-23T21:55:15+01:00",
 				"url": "https://www.byzero.de/2021/10/23/the-floating-caterpillar.html"
 			},
@@ -324,7 +332,7 @@
 				"id": "http://muhh.micro.blog/2021/08/20/die-post-hat.html",
 				
 				"content_html": "<p>Die Post hat was schönes von @kinderaufsrad gebracht</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Die Post hat was schönes von @kinderaufsrad gebracht \n\n<img src=\"https://www.byzero.de/uploads/2022/e552d2d97c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Die Post hat was schönes von @kinderaufsrad gebracht \n\n<img src=\"uploads/2022/e552d2d97c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-20T09:05:26+01:00",
 				"url": "https://www.byzero.de/2021/08/20/die-post-hat.html"
 			},
@@ -332,7 +340,7 @@
 				"id": "http://muhh.micro.blog/2021/08/19/only-a-few.html",
 				
 				"content_html": "<p>only a few days ago</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "only a few days ago\n\n<img src=\"https://www.byzero.de/uploads/2021/a3c93f4a16.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "only a few days ago\n\n<img src=\"uploads/2021/a3c93f4a16.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-08-19T09:15:07+01:00",
 				"url": "https://www.byzero.de/2021/08/19/only-a-few.html"
 			},
@@ -340,7 +348,7 @@
 				"id": "http://muhh.micro.blog/2021/08/12/idylle.html",
 				
 				"content_html": "<p>Idylle</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Idylle\n\n<img src=\"https://www.byzero.de/uploads/2021/d91b5e2b99.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"https://www.byzero.de/uploads/2021/73d535f22a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Idylle\n\n<img src=\"uploads/2021/d91b5e2b99.jpg\" width=\"600\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/73d535f22a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-08-12T19:09:28+01:00",
 				"url": "https://www.byzero.de/2021/08/12/idylle.html"
 			},
@@ -348,7 +356,7 @@
 				"id": "http://muhh.micro.blog/2021/08/03/my-new-mobile.html",
 				
 				"content_html": "<p>My new mobile computer 👨‍💻</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My new mobile computer 👨‍💻 \n\n<img src=\"https://www.byzero.de/uploads/2021/96762eb102.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "My new mobile computer 👨‍💻 \n\n<img src=\"uploads/2021/96762eb102.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-03T18:54:42+01:00",
 				"url": "https://www.byzero.de/2021/08/03/my-new-mobile.html"
 			},
@@ -356,7 +364,7 @@
 				"id": "http://muhh.micro.blog/2021/07/23/enjoying-the-outdoor.html",
 				
 				"content_html": "<p>Enjoying the outdoor office next to the camper lifestyle 🚐</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Enjoying the outdoor office next to the camper lifestyle 🚐 \n\n<img src=\"https://www.byzero.de/uploads/2021/fe6a07f7f4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Enjoying the outdoor office next to the camper lifestyle 🚐 \n\n<img src=\"uploads/2021/fe6a07f7f4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-07-23T16:35:12+01:00",
 				"url": "https://www.byzero.de/2021/07/23/enjoying-the-outdoor.html"
 			},
@@ -364,7 +372,7 @@
 				"id": "http://muhh.micro.blog/2021/07/19/am-freitag-hatte.html",
 				
 				"content_html": "<p>Am Freitag hatte ich mal kurzzeitig mein eigenes #beetmobil.<br>\nDer Palme hat&rsquo;s gefallen.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Am Freitag hatte ich mal kurzzeitig mein eigenes #beetmobil.  \nDer Palme hat's gefallen.\n\n<img src=\"https://www.byzero.de/uploads/2022/9505d8becb.jpg\" width=\"600\" height=\"450\" alt=\"Mein Fahrrad mit Anhänger, in dem meine Büropalme und ein Computer steht.\" />\n",
+				"content_text": "Am Freitag hatte ich mal kurzzeitig mein eigenes #beetmobil.  \nDer Palme hat's gefallen.\n\n<img src=\"uploads/2022/9505d8becb.jpg\" width=\"600\" height=\"450\" alt=\"Mein Fahrrad mit Anhänger, in dem meine Büropalme und ein Computer steht.\" />\n",
 				"date_published": "2021-07-19T15:52:00+01:00",
 				"url": "https://www.byzero.de/2021/07/19/am-freitag-hatte.html",
 				"tags": ["hammelburg"]
@@ -399,7 +407,7 @@
 				"id": "http://muhh.micro.blog/2021/07/14/wir-lassen-wieder.html",
 				
 				"content_html": "<h2 id=\"wir-lassen-wieder-die-räder-rollen\">Wir lassen wieder die Räder rollen</h2>\n<!-- raw HTML omitted -->\n<p>Unsere als kleine geplante erste Fahrraddemo vor ein paar Tagen war ein Kracher. Die Schätzungen gingen in die 100 Teilnehmer, auf einem Video konnte ich rund 80 Leute zählen. Ich hatte im allerbesten Fall mit vielleicht 30 Leuten gerechnet. Irre!</p>\n<p>Ein großes Dankeschön an alle die da waren! Ihr habt einen großen Beitrag geleistet um zu zeigen, wie wichtig uns ein fahrradfreundliches Hammelburg ist.</p>\n<p>Und wie es die Redner und Teilnehmer so deutlich gesagt haben: &ldquo;Wir müssen das wiederholen!&rdquo;. Und das tun wir.</p>\n<h2 id=\"für-ein-fahrradfreundliches-hammelburg\">&ldquo;Für ein fahrradfreundliches Hammelburg&rdquo;</h2>\n<p>Am Samstag, 17.07.2021 versammeln wir uns um 10 Uhr wieder am Bleichrasen um die Fahrradtour durch Hammelburg zu wiederholen. Die Route ist wieder dieselbe, das Verfahren auch: wir fahren gemeinsam auf unseren Rädern durch die Stadt und werden die Kissinger Straße hoch schieben.</p>\n<p>Das Ziel der Tour ist dieses Mal der Viehmarkt, wo wir eine offene Diskussion anregen wollen: jede die eine Meinung, eine Idee oder einen Beitrag teilen möchte, kann ans Mikro kommen und dies tun.<br>\nIch werde diese Diskussion moderieren und wir werden uns kümmern, dass wir im Anschluss auch erste Vorschläge zur Verbesserung an die Stadt weitergeben können.</p>\n<p>Wenn ihr teilnehmen und uns unterstützen wollt, kommt mit also mit eurem Rad, gerne mit Hänger und Plakaten verziert und fahrt mit.</p>\n<p>Auch dieses Mal habe ich bis jetzt noch keine Rückmeldung vom Landratsamt oder Polizei bekommen. Die Einhaltung der Hygienieregeln sind aber selbstverständlich: wir tragen Masken, wir halten 1,50m Abstand. Wer am Mikro redet, kann die Maske abnehmen.</p>\n<p>Ich freue mich wieder sehr mit euch durch Hammelburg fahren zu dürfen und ganz besonders auf ein weiteres Klingelkonzert!</p>\n<p>Lieben Dank und herzliche Grüße,<br>\nMarkus Heurung</p>\n<p>PS: wer nicht zu Facebook mag und kommende Einladungen und Updates zum Thema fahrradfreundliches Hammelburg nicht verpassen will, ich habe einen einfachen Newsletter eingerichtet, an den ich diese Nachrichten genauso schicken werde. Wer diese Nachrichten also direkt per Email bekommen will, kann sich unter  <a href=\"https://buttondown.email/fahrradfreundliches-hammelburg\">buttondown.email/fahrradfr&hellip;</a> bei diesem Newsletter anmelden.</p>\n",
-				"content_text": "## Wir lassen wieder die Räder rollen\n\n<img src=\"https://www.byzero.de/uploads/2022/2596187983.jpg\" width=\"500\" height=\"343\" alt=\"\" />\n\nUnsere als kleine geplante erste Fahrraddemo vor ein paar Tagen war ein Kracher. Die Schätzungen gingen in die 100 Teilnehmer, auf einem Video konnte ich rund 80 Leute zählen. Ich hatte im allerbesten Fall mit vielleicht 30 Leuten gerechnet. Irre! \n\nEin großes Dankeschön an alle die da waren! Ihr habt einen großen Beitrag geleistet um zu zeigen, wie wichtig uns ein fahrradfreundliches Hammelburg ist. \n\nUnd wie es die Redner und Teilnehmer so deutlich gesagt haben: \"Wir müssen das wiederholen!\". Und das tun wir.\n\n## \"Für ein fahrradfreundliches Hammelburg\"\n\nAm Samstag, 17.07.2021 versammeln wir uns um 10 Uhr wieder am Bleichrasen um die Fahrradtour durch Hammelburg zu wiederholen. Die Route ist wieder dieselbe, das Verfahren auch: wir fahren gemeinsam auf unseren Rädern durch die Stadt und werden die Kissinger Straße hoch schieben.\n\nDas Ziel der Tour ist dieses Mal der Viehmarkt, wo wir eine offene Diskussion anregen wollen: jede die eine Meinung, eine Idee oder einen Beitrag teilen möchte, kann ans Mikro kommen und dies tun.  \nIch werde diese Diskussion moderieren und wir werden uns kümmern, dass wir im Anschluss auch erste Vorschläge zur Verbesserung an die Stadt weitergeben können.\n\nWenn ihr teilnehmen und uns unterstützen wollt, kommt mit also mit eurem Rad, gerne mit Hänger und Plakaten verziert und fahrt mit. \n\nAuch dieses Mal habe ich bis jetzt noch keine Rückmeldung vom Landratsamt oder Polizei bekommen. Die Einhaltung der Hygienieregeln sind aber selbstverständlich: wir tragen Masken, wir halten 1,50m Abstand. Wer am Mikro redet, kann die Maske abnehmen. \n\nIch freue mich wieder sehr mit euch durch Hammelburg fahren zu dürfen und ganz besonders auf ein weiteres Klingelkonzert!\n\nLieben Dank und herzliche Grüße,  \n  Markus Heurung \n\nPS: wer nicht zu Facebook mag und kommende Einladungen und Updates zum Thema fahrradfreundliches Hammelburg nicht verpassen will, ich habe einen einfachen Newsletter eingerichtet, an den ich diese Nachrichten genauso schicken werde. Wer diese Nachrichten also direkt per Email bekommen will, kann sich unter  [buttondown.email/fahrradfr...](https://buttondown.email/fahrradfreundliches-hammelburg) bei diesem Newsletter anmelden.\n",
+				"content_text": "## Wir lassen wieder die Räder rollen\n\n<img src=\"uploads/2022/2596187983.jpg\" width=\"500\" height=\"343\" alt=\"\" />\n\nUnsere als kleine geplante erste Fahrraddemo vor ein paar Tagen war ein Kracher. Die Schätzungen gingen in die 100 Teilnehmer, auf einem Video konnte ich rund 80 Leute zählen. Ich hatte im allerbesten Fall mit vielleicht 30 Leuten gerechnet. Irre! \n\nEin großes Dankeschön an alle die da waren! Ihr habt einen großen Beitrag geleistet um zu zeigen, wie wichtig uns ein fahrradfreundliches Hammelburg ist. \n\nUnd wie es die Redner und Teilnehmer so deutlich gesagt haben: \"Wir müssen das wiederholen!\". Und das tun wir.\n\n## \"Für ein fahrradfreundliches Hammelburg\"\n\nAm Samstag, 17.07.2021 versammeln wir uns um 10 Uhr wieder am Bleichrasen um die Fahrradtour durch Hammelburg zu wiederholen. Die Route ist wieder dieselbe, das Verfahren auch: wir fahren gemeinsam auf unseren Rädern durch die Stadt und werden die Kissinger Straße hoch schieben.\n\nDas Ziel der Tour ist dieses Mal der Viehmarkt, wo wir eine offene Diskussion anregen wollen: jede die eine Meinung, eine Idee oder einen Beitrag teilen möchte, kann ans Mikro kommen und dies tun.  \nIch werde diese Diskussion moderieren und wir werden uns kümmern, dass wir im Anschluss auch erste Vorschläge zur Verbesserung an die Stadt weitergeben können.\n\nWenn ihr teilnehmen und uns unterstützen wollt, kommt mit also mit eurem Rad, gerne mit Hänger und Plakaten verziert und fahrt mit. \n\nAuch dieses Mal habe ich bis jetzt noch keine Rückmeldung vom Landratsamt oder Polizei bekommen. Die Einhaltung der Hygienieregeln sind aber selbstverständlich: wir tragen Masken, wir halten 1,50m Abstand. Wer am Mikro redet, kann die Maske abnehmen. \n\nIch freue mich wieder sehr mit euch durch Hammelburg fahren zu dürfen und ganz besonders auf ein weiteres Klingelkonzert!\n\nLieben Dank und herzliche Grüße,  \n  Markus Heurung \n\nPS: wer nicht zu Facebook mag und kommende Einladungen und Updates zum Thema fahrradfreundliches Hammelburg nicht verpassen will, ich habe einen einfachen Newsletter eingerichtet, an den ich diese Nachrichten genauso schicken werde. Wer diese Nachrichten also direkt per Email bekommen will, kann sich unter  [buttondown.email/fahrradfr...](https://buttondown.email/fahrradfreundliches-hammelburg) bei diesem Newsletter anmelden.\n",
 				"date_published": "2021-07-14T10:50:00+01:00",
 				"url": "https://www.byzero.de/2021/07/14/wir-lassen-wieder.html",
 				"tags": ["hammelburg"]
@@ -416,7 +424,7 @@
 				"id": "http://muhh.micro.blog/2021/07/09/154348.html",
 				
 				"content_html": "<p>💉⚔️💉😊</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "💉⚔️💉😊\n\n<img src=\"https://www.byzero.de/uploads/2021/797fa5f15b.jpg\" width=\"600\" height=\"328\" alt=\"\" />\n",
+				"content_text": "💉⚔️💉😊\n\n<img src=\"uploads/2021/797fa5f15b.jpg\" width=\"600\" height=\"328\" alt=\"\" />\n",
 				"date_published": "2021-07-09T14:43:48+01:00",
 				"url": "https://www.byzero.de/2021/07/09/154348.html"
 			},
@@ -424,7 +432,7 @@
 				"id": "http://muhh.micro.blog/2021/07/07/wer-von-euch.html",
 				
 				"content_html": "<p>Wer von euch war das? #mauszeit</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wer von euch war das? #mauszeit\n\n<img src=\"https://www.byzero.de/uploads/2021/8744673a80.png\" width=\"582\" height=\"296\" alt=\"\" />\n",
+				"content_text": "Wer von euch war das? #mauszeit\n\n<img src=\"uploads/2021/8744673a80.png\" width=\"582\" height=\"296\" alt=\"\" />\n",
 				"date_published": "2021-07-07T11:31:37+01:00",
 				"url": "https://www.byzero.de/2021/07/07/wer-von-euch.html"
 			},
@@ -507,7 +515,7 @@
 				"id": "http://muhh.micro.blog/2021/06/02/schner-besuch-im.html",
 				
 				"content_html": "<p>Schöner Besuch im Garten</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Schöner Besuch im Garten\n\n<img src=\"https://www.byzero.de/uploads/2021/2fb4e6a9f6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Schöner Besuch im Garten\n\n<img src=\"uploads/2021/2fb4e6a9f6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-02T20:51:58+01:00",
 				"url": "https://www.byzero.de/2021/06/02/schner-besuch-im.html"
 			},
@@ -515,7 +523,7 @@
 				"id": "http://muhh.micro.blog/2021/05/28/back-on-the.html",
 				
 				"content_html": "<p>Back on the roads</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Back on the roads\n\n<img src=\"https://www.byzero.de/uploads/2021/1248a4fd15.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Back on the roads\n\n<img src=\"uploads/2021/1248a4fd15.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-28T19:50:39+01:00",
 				"url": "https://www.byzero.de/2021/05/28/back-on-the.html"
 			},
@@ -531,7 +539,7 @@
 				"id": "http://muhh.micro.blog/2021/05/15/todays-work-removed.html",
 				
 				"content_html": "<p>Today’s work. Removed a leaky toilet.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Today’s work. Removed a leaky toilet. \n\n<img src=\"https://www.byzero.de/uploads/2021/35505b383c.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://www.byzero.de/uploads/2021/f39537cfe5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Today’s work. Removed a leaky toilet. \n\n<img src=\"uploads/2021/35505b383c.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2021/f39537cfe5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-15T20:45:15+01:00",
 				"url": "https://www.byzero.de/2021/05/15/todays-work-removed.html"
 			},
@@ -539,7 +547,7 @@
 				"id": "http://muhh.micro.blog/2021/05/09/heute-morgen-habe.html",
 				
 				"content_html": "<p>Heute morgen habe ich ein ausgezeichnetes und üppiges Muttertagsfrühstück beim <a href=\"http://www.frankenwein-mueller.de\">Müller Weinhotel</a> geholt und dabei Stadtrat Martin Wende getroffen, der mich auf was besonderes hinwies.</p>\n<p>Das Rathaus, das ohne Haus auf der linken Seite kräftig in der Morgensonne glänzte.</p>\n<p>Ein großartiger Anblick, der nur von kurzer Zeit so möglich sein wird, weil in wenigen Monaten der Anblick durch das neue Bürgerhaus nicht mehr möglich sein wird.</p>\n<p>Ich musste prompt an Tobias schöne Idee und Vorschlag denken, an der Stelle kein Bürgerhaus zu bauen, sondern einen offenen Platz mit Bäumen anzulegen. Was für ein toller Ort das gewesen wäre.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Heute morgen habe ich ein ausgezeichnetes und üppiges Muttertagsfrühstück beim [Müller Weinhotel](http://www.frankenwein-mueller.de) geholt und dabei Stadtrat Martin Wende getroffen, der mich auf was besonderes hinwies.\n\nDas Rathaus, das ohne Haus auf der linken Seite kräftig in der Morgensonne glänzte.\n\nEin großartiger Anblick, der nur von kurzer Zeit so möglich sein wird, weil in wenigen Monaten der Anblick durch das neue Bürgerhaus nicht mehr möglich sein wird.\n\nIch musste prompt an Tobias schöne Idee und Vorschlag denken, an der Stelle kein Bürgerhaus zu bauen, sondern einen offenen Platz mit Bäumen anzulegen. Was für ein toller Ort das gewesen wäre.\n\n<img src=\"https://www.byzero.de/uploads/2022/1aeff0825d.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_text": "Heute morgen habe ich ein ausgezeichnetes und üppiges Muttertagsfrühstück beim [Müller Weinhotel](http://www.frankenwein-mueller.de) geholt und dabei Stadtrat Martin Wende getroffen, der mich auf was besonderes hinwies.\n\nDas Rathaus, das ohne Haus auf der linken Seite kräftig in der Morgensonne glänzte.\n\nEin großartiger Anblick, der nur von kurzer Zeit so möglich sein wird, weil in wenigen Monaten der Anblick durch das neue Bürgerhaus nicht mehr möglich sein wird.\n\nIch musste prompt an Tobias schöne Idee und Vorschlag denken, an der Stelle kein Bürgerhaus zu bauen, sondern einen offenen Platz mit Bäumen anzulegen. Was für ein toller Ort das gewesen wäre.\n\n<img src=\"uploads/2022/1aeff0825d.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2021-05-09T11:19:00+01:00",
 				"url": "https://www.byzero.de/2021/05/09/heute-morgen-habe.html",
 				"tags": ["hammelburg"]
@@ -572,7 +580,7 @@
 				"id": "http://muhh.micro.blog/2021/05/04/i-need-to.html",
 				
 				"content_html": "<p>I need to bring back some color into my life. So, here&rsquo;s a new profile pic.\nStill no need to lower any eyebrows.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I need to bring back some color into my life. So, here's a new profile pic.\r\nStill no need to lower any eyebrows.\n\n<img src=\"https://www.byzero.de/uploads/2021/b6bb24d1c5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I need to bring back some color into my life. So, here's a new profile pic.\r\nStill no need to lower any eyebrows.\n\n<img src=\"uploads/2021/b6bb24d1c5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-04T16:49:43+01:00",
 				"url": "https://www.byzero.de/2021/05/04/i-need-to.html"
 			},
@@ -588,7 +596,7 @@
 				"id": "http://muhh.micro.blog/2021/04/11/es-wird-frhling.html",
 				
 				"content_html": "<p>Es wird Frühling und ich brauche die schöne Abwechslung meine Fotoknipserskills zu schleifen. Mein oberer Hinterhof lieferte dafür heute morgen bei warmen Sonnenschein und Vogelgezwitscher gute Unterhaltung.</p>\n<p>Ich mag&rsquo;s hier.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Es wird Frühling und ich brauche die schöne Abwechslung meine Fotoknipserskills zu schleifen. Mein oberer Hinterhof lieferte dafür heute morgen bei warmen Sonnenschein und Vogelgezwitscher gute Unterhaltung.\n\nIch mag's hier.\n\n<img src=\"https://www.byzero.de/uploads/2022/22e637acea.jpg\" />\n<img src=\"https://www.byzero.de/uploads/2022/0170e656d4.jpg\" />\n<img src=\"https://www.byzero.de/uploads/2022/1d077d58e1.jpg\" />\n<img src=\"https://www.byzero.de/uploads/2022/018b31504d.jpg\" />\n<img src=\"https://www.byzero.de/uploads/2022/f15bee24b9.jpg\" />\n<img src=\"https://www.byzero.de/uploads/2022/59dd19d142.jpg\" />\n<img src=\"https://www.byzero.de/uploads/2022/d30c568709.jpg\" />\n",
+				"content_text": "Es wird Frühling und ich brauche die schöne Abwechslung meine Fotoknipserskills zu schleifen. Mein oberer Hinterhof lieferte dafür heute morgen bei warmen Sonnenschein und Vogelgezwitscher gute Unterhaltung.\n\nIch mag's hier.\n\n<img src=\"uploads/2022/22e637acea.jpg\" />\n<img src=\"uploads/2022/0170e656d4.jpg\" />\n<img src=\"uploads/2022/1d077d58e1.jpg\" />\n<img src=\"uploads/2022/018b31504d.jpg\" />\n<img src=\"uploads/2022/f15bee24b9.jpg\" />\n<img src=\"uploads/2022/59dd19d142.jpg\" />\n<img src=\"uploads/2022/d30c568709.jpg\" />\n",
 				"date_published": "2021-04-11T12:49:00+01:00",
 				"url": "https://www.byzero.de/2021/04/11/es-wird-frhling.html",
 				"tags": ["hammelburg"]
@@ -653,7 +661,7 @@
 				"id": "http://muhh.micro.blog/2021/03/08/perspective.html",
 				
 				"content_html": "<p>Perspective 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Perspective 📷\n\n<img src=\"https://www.byzero.de/uploads/2021/eef05ec46f.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Perspective 📷\n\n<img src=\"uploads/2021/eef05ec46f.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2021-03-08T17:42:00+01:00",
 				"url": "https://www.byzero.de/2021/03/08/perspective.html"
 			},
@@ -717,7 +725,7 @@
 				"id": "http://muhh.micro.blog/2021/02/21/spring-is-coming.html",
 				
 				"content_html": "<p>Spring is coming</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spring is coming\n\n<img src=\"https://www.byzero.de/uploads/2021/0dbabb97e3.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "Spring is coming\n\n<img src=\"uploads/2021/0dbabb97e3.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2021-02-21T10:28:16+01:00",
 				"url": "https://www.byzero.de/2021/02/21/spring-is-coming.html"
 			},
@@ -733,7 +741,7 @@
 				"id": "http://muhh.micro.blog/2021/02/09/freezing.html",
 				
 				"content_html": "<p>Freezing</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Freezing\n\n<img src=\"https://www.byzero.de/uploads/2021/b19d953812.jpg\" width=\"600\" height=\"317\" alt=\"\" />\n",
+				"content_text": "Freezing\n\n<img src=\"uploads/2021/b19d953812.jpg\" width=\"600\" height=\"317\" alt=\"\" />\n",
 				"date_published": "2021-02-09T12:40:32+01:00",
 				"url": "https://www.byzero.de/2021/02/09/freezing.html"
 			},
@@ -741,7 +749,7 @@
 				"id": "http://muhh.micro.blog/2021/01/24/fog-snow.html",
 				
 				"content_html": "<p>Fog &amp; Snow</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Fog & Snow\n\n<img src=\"https://www.byzero.de/uploads/2021/cdde7c0a3c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.byzero.de/uploads/2021/e5d48db728.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.byzero.de/uploads/2021/febd95db96.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Fog & Snow\n\n<img src=\"uploads/2021/cdde7c0a3c.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/e5d48db728.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/febd95db96.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-01-24T14:28:46+01:00",
 				"url": "https://www.byzero.de/2021/01/24/fog-snow.html"
 			},
@@ -749,7 +757,7 @@
 				"id": "http://muhh.micro.blog/2021/01/20/found-the-weak.html",
 				
 				"content_html": "<p>Found the weak spot</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Found the weak spot\n\n<img src=\"https://www.byzero.de/uploads/2021/aae1bcc5bd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Found the weak spot\n\n<img src=\"uploads/2021/aae1bcc5bd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-01-20T19:33:21+01:00",
 				"url": "https://www.byzero.de/2021/01/20/found-the-weak.html"
 			},
@@ -765,7 +773,7 @@
 				"id": "http://muhh.micro.blog/2020/11/30/morning-mood.html",
 				
 				"content_html": "<p>morning mood</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "morning mood\n\n<img src=\"https://www.byzero.de/uploads/2020/8495e1c9ad.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "morning mood\n\n<img src=\"uploads/2020/8495e1c9ad.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-11-30T12:17:31+01:00",
 				"url": "https://www.byzero.de/2020/11/30/morning-mood.html"
 			},
@@ -773,7 +781,7 @@
 				"id": "http://muhh.micro.blog/2020/10/25/sonntagmorgenherbstsonnenspazierlauf.html",
 				
 				"content_html": "<p>Sonntagmorgenherbstsonnenspazierlauf</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Sonntagmorgenherbstsonnenspazierlauf\n\n<img src=\"https://www.byzero.de/uploads/2020/8451c1e919.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.byzero.de/uploads/2020/9b752f5382.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.byzero.de/uploads/2020/eeba1d50d0.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"https://www.byzero.de/uploads/2020/442793e915.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://www.byzero.de/uploads/2020/aca6513a1c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Sonntagmorgenherbstsonnenspazierlauf\n\n<img src=\"uploads/2020/8451c1e919.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/9b752f5382.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/eeba1d50d0.jpg\" width=\"600\" height=\"599\" alt=\"\" /><img src=\"uploads/2020/442793e915.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2020/aca6513a1c.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-10-25T12:31:29+01:00",
 				"url": "https://www.byzero.de/2020/10/25/sonntagmorgenherbstsonnenspazierlauf.html"
 			},
@@ -789,7 +797,7 @@
 				"id": "http://muhh.micro.blog/2020/06/27/sommer.html",
 				
 				"content_html": "<p>📷  Sommer</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "📷  Sommer \n\n<a href=\"https://www.byzero.de/uploads/2020/00f6036f1f.jpg\"><img src=\"https://www.byzero.de/uploads/2020/00f6036f1f.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "📷  Sommer \n\n<a href=\"https://www.byzero.de/uploads/2020/00f6036f1f.jpg\"><img src=\"uploads/2020/00f6036f1f.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-06-27T11:33:18+01:00",
 				"url": "https://www.byzero.de/2020/06/27/sommer.html"
 			},
@@ -814,7 +822,7 @@
 				"id": "http://muhh.micro.blog/2020/05/29/our-peonies-are.html",
 				
 				"content_html": "<p>📷 our peonies are on time</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "📷 our peonies are on time\n\n<a href=\"https://www.byzero.de/uploads/2020/0a88a8e412.jpg\"><img src=\"https://www.byzero.de/uploads/2020/0a88a8e412.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "📷 our peonies are on time\n\n<a href=\"https://www.byzero.de/uploads/2020/0a88a8e412.jpg\"><img src=\"uploads/2020/0a88a8e412.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-05-29T19:30:27+01:00",
 				"url": "https://www.byzero.de/2020/05/29/our-peonies-are.html"
 			},
@@ -822,7 +830,7 @@
 				"id": "http://muhh.micro.blog/2020/05/28/a-little-present.html",
 				
 				"content_html": "<p>📷 a little present for my son</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "📷 a little present for my son\n\n<a href=\"https://www.byzero.de/uploads/2020/03fec89136.jpg\"><img src=\"https://www.byzero.de/uploads/2020/03fec89136.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "📷 a little present for my son\n\n<a href=\"https://www.byzero.de/uploads/2020/03fec89136.jpg\"><img src=\"uploads/2020/03fec89136.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-05-28T16:42:31+01:00",
 				"url": "https://www.byzero.de/2020/05/28/a-little-present.html"
 			},
@@ -871,7 +879,7 @@
 				"id": "http://muhh.micro.blog/2020/05/02/yellow.html",
 				
 				"content_html": "<p>Morgenleuchten 📷</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Morgenleuchten 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/cc478c1300.jpg\"><img src=\"https://www.byzero.de/uploads/2020/cc478c1300.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Morgenleuchten 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/cc478c1300.jpg\"><img src=\"uploads/2020/cc478c1300.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-05-02T08:04:04+01:00",
 				"url": "https://www.byzero.de/2020/05/02/yellow.html"
 			},
@@ -879,7 +887,7 @@
 				"id": "http://muhh.micro.blog/2020/05/01/kopfstand.html",
 				
 				"content_html": "<p>Kopfstand 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Kopfstand 📷\n\n<img src=\"https://www.byzero.de/uploads/2020/c2ed805d30.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Kopfstand 📷\n\n<img src=\"uploads/2020/c2ed805d30.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-05-01T20:12:21+01:00",
 				"url": "https://www.byzero.de/2020/05/01/kopfstand.html",
 				"tags": ["hammelburg"]
@@ -888,7 +896,7 @@
 				"id": "http://muhh.micro.blog/2020/04/23/im-a-rabbit.html",
 				
 				"content_html": "<p>I&rsquo;m a rabbit 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm a rabbit 📷\n\n<img src=\"https://www.byzero.de/uploads/2020/1225cab46d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I'm a rabbit 📷\n\n<img src=\"uploads/2020/1225cab46d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-04-23T09:03:44+01:00",
 				"url": "https://www.byzero.de/2020/04/23/im-a-rabbit.html"
 			},
@@ -896,7 +904,7 @@
 				"id": "http://muhh.micro.blog/2020/04/20/terraforming.html",
 				
 				"content_html": "<p>Terraforming 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Terraforming 📷\n\n<img src=\"https://www.byzero.de/uploads/2020/d170ba4759.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Terraforming 📷\n\n<img src=\"uploads/2020/d170ba4759.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2020-04-20T18:52:58+01:00",
 				"url": "https://www.byzero.de/2020/04/20/terraforming.html"
 			},
@@ -930,7 +938,7 @@
 				"id": "http://muhh.micro.blog/2020/04/04/181918.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n\n\n<img src=\"https://www.byzero.de/uploads/2020/b5f9a912dc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n\n\n<img src=\"uploads/2020/b5f9a912dc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-04-04T17:19:18+01:00",
 				"url": "https://www.byzero.de/2020/04/04/181918.html"
 			},
@@ -938,7 +946,7 @@
 				"id": "http://muhh.micro.blog/2020/03/22/some-happy-colors.html",
 				
 				"content_html": "<p>Some happy colors 📷</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Some happy colors 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/dd4e800053.jpg\"><img src=\"https://www.byzero.de/uploads/2020/dd4e800053.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2020/5b19e572ef.jpg\"><img src=\"https://www.byzero.de/uploads/2020/5b19e572ef.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2020/d44a105a17.jpg\"><img src=\"https://www.byzero.de/uploads/2020/d44a105a17.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Some happy colors 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/dd4e800053.jpg\"><img src=\"uploads/2020/dd4e800053.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2020/5b19e572ef.jpg\"><img src=\"uploads/2020/5b19e572ef.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2020/d44a105a17.jpg\"><img src=\"uploads/2020/d44a105a17.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-03-22T17:54:11+01:00",
 				"url": "https://www.byzero.de/2020/03/22/some-happy-colors.html"
 			},
@@ -946,7 +954,7 @@
 				"id": "http://muhh.micro.blog/2020/03/17/office.html",
 				
 				"content_html": "<p>office #2</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "office #2\n\n<a href=\"https://www.byzero.de/uploads/2020/4da1643375.jpg\"><img src=\"https://www.byzero.de/uploads/2020/4da1643375.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "office #2\n\n<a href=\"https://www.byzero.de/uploads/2020/4da1643375.jpg\"><img src=\"uploads/2020/4da1643375.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-03-17T15:40:13+01:00",
 				"url": "https://www.byzero.de/2020/03/17/office.html"
 			},
@@ -954,7 +962,7 @@
 				"id": "http://muhh.micro.blog/2020/03/01/vision-mbfeb-i.html",
 				
 				"content_html": "<p>„Vision“ 📷 #mbfeb</p>\n<p>I need to play a lot more with this lens again.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Vision“ 📷 #mbfeb\n\nI need to play a lot more with this lens again. \n\n<a href=\"https://www.byzero.de/uploads/2020/57eb15da51.jpg\"><img src=\"https://www.byzero.de/uploads/2020/57eb15da51.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Vision“ 📷 #mbfeb\n\nI need to play a lot more with this lens again. \n\n<a href=\"https://www.byzero.de/uploads/2020/57eb15da51.jpg\"><img src=\"uploads/2020/57eb15da51.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-03-01T19:41:25+01:00",
 				"url": "https://www.byzero.de/2020/03/01/vision-mbfeb-i.html"
 			},
@@ -962,7 +970,7 @@
 				"id": "http://muhh.micro.blog/2020/02/29/leap-mbfeb-uff.html",
 				
 				"content_html": "<p>“Leap” 📷 #mbfeb</p>\n<p>Uff, this challenge is getting harder each day. But, only one day left.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "“Leap” 📷 #mbfeb\n\nUff, this challenge is getting harder each day. But, only one day left. \n\n<a href=\"https://www.byzero.de/uploads/2020/67d4d847dd.jpg\"><img src=\"https://www.byzero.de/uploads/2020/67d4d847dd.jpg\" width=\"466\" height=\"355\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "“Leap” 📷 #mbfeb\n\nUff, this challenge is getting harder each day. But, only one day left. \n\n<a href=\"https://www.byzero.de/uploads/2020/67d4d847dd.jpg\"><img src=\"uploads/2020/67d4d847dd.jpg\" width=\"466\" height=\"355\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-29T22:25:33+01:00",
 				"url": "https://www.byzero.de/2020/02/29/leap-mbfeb-uff.html"
 			},
@@ -978,7 +986,7 @@
 				"id": "http://muhh.micro.blog/2020/02/28/below-mbfeb-she.html",
 				
 				"content_html": "<p>“Below” 📷 #mbfeb</p>\n<p>She loves this game sooo much</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "“Below” 📷 #mbfeb\n\nShe loves this game sooo much\n\n<a href=\"https://www.byzero.de/uploads/2020/b8e938cfd9.jpg\"><img src=\"https://www.byzero.de/uploads/2020/b8e938cfd9.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "“Below” 📷 #mbfeb\n\nShe loves this game sooo much\n\n<a href=\"https://www.byzero.de/uploads/2020/b8e938cfd9.jpg\"><img src=\"uploads/2020/b8e938cfd9.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-28T17:28:48+01:00",
 				"url": "https://www.byzero.de/2020/02/28/below-mbfeb-she.html"
 			},
@@ -986,7 +994,7 @@
 				"id": "http://muhh.micro.blog/2020/02/27/together-mbfeb.html",
 				
 				"content_html": "<p>“Together” 📷 #mbfeb</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "“Together” 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/ab9cde7d53.jpg\"><img src=\"https://www.byzero.de/uploads/2020/ab9cde7d53.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "“Together” 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/ab9cde7d53.jpg\"><img src=\"uploads/2020/ab9cde7d53.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-27T19:55:42+01:00",
 				"url": "https://www.byzero.de/2020/02/27/together-mbfeb.html"
 			},
@@ -994,7 +1002,7 @@
 				"id": "http://muhh.micro.blog/2020/02/26/escape-mbfeb.html",
 				
 				"content_html": "<p>“Escape” 📷 #mbfeb</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "“Escape” 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/019430e6a5.jpg\"><img src=\"https://www.byzero.de/uploads/2020/019430e6a5.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "“Escape” 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/019430e6a5.jpg\"><img src=\"uploads/2020/019430e6a5.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-26T22:48:35+01:00",
 				"url": "https://www.byzero.de/2020/02/26/escape-mbfeb.html"
 			},
@@ -1010,7 +1018,7 @@
 				"id": "http://muhh.micro.blog/2020/02/25/hurdle-mbfeb-its.html",
 				
 				"content_html": "<p>„Hurdle“ 📷 #mbfeb</p>\n<p>It’s a real challenge for me to relearn typing on this fabulous keyboard.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Hurdle“ 📷 #mbfeb\n\nIt’s a real challenge for me to relearn typing on this fabulous keyboard. \n\n<a href=\"https://www.byzero.de/uploads/2020/be6ab4b556.jpg\"><img src=\"https://www.byzero.de/uploads/2020/be6ab4b556.jpg\" width=\"600\" height=\"334\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Hurdle“ 📷 #mbfeb\n\nIt’s a real challenge for me to relearn typing on this fabulous keyboard. \n\n<a href=\"https://www.byzero.de/uploads/2020/be6ab4b556.jpg\"><img src=\"uploads/2020/be6ab4b556.jpg\" width=\"600\" height=\"334\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-25T22:55:28+01:00",
 				"url": "https://www.byzero.de/2020/02/25/hurdle-mbfeb-its.html"
 			},
@@ -1018,7 +1026,7 @@
 				"id": "http://muhh.micro.blog/2020/02/24/double-mbfeb.html",
 				
 				"content_html": "<p>„Double“ 📷 #mbfeb</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Double“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/1fffc204e5.jpg\"><img src=\"https://www.byzero.de/uploads/2020/1fffc204e5.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Double“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/1fffc204e5.jpg\"><img src=\"uploads/2020/1fffc204e5.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-24T23:58:38+01:00",
 				"url": "https://www.byzero.de/2020/02/24/double-mbfeb.html"
 			},
@@ -1034,7 +1042,7 @@
 				"id": "http://muhh.micro.blog/2020/02/23/station-mbfeb-shot.html",
 				
 				"content_html": "<p>„Station“ 📷 #mbfeb</p>\n<p>Shot on this day five years ago. A very different weather today.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Station“ 📷 #mbfeb\n\nShot on this day five years ago. A very different weather today. \n\n<a href=\"https://www.byzero.de/uploads/2020/b33e96d55b.jpg\"><img src=\"https://www.byzero.de/uploads/2020/b33e96d55b.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Station“ 📷 #mbfeb\n\nShot on this day five years ago. A very different weather today. \n\n<a href=\"https://www.byzero.de/uploads/2020/b33e96d55b.jpg\"><img src=\"uploads/2020/b33e96d55b.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-23T20:53:57+01:00",
 				"url": "https://www.byzero.de/2020/02/23/station-mbfeb-shot.html"
 			},
@@ -1042,7 +1050,7 @@
 				"id": "http://muhh.micro.blog/2020/02/22/spectacle-mbfeb-today.html",
 				
 				"content_html": "<p>„Spectacle“ 📷 #mbfeb</p>\n<p>Today we built two huge E‘s out of 19 electric cars. The EE stand for „erneuerbare Energien“ - renewable energies.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Spectacle“ 📷 #mbfeb\n\nToday we built two huge E‘s out of 19 electric cars. The EE stand for „erneuerbare Energien“ - renewable energies. \n\n\n<a href=\"https://www.byzero.de/uploads/2020/d0ae2d67b5.jpg\"><img src=\"https://www.byzero.de/uploads/2020/d0ae2d67b5.jpg\" width=\"282\" height=\"500\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Spectacle“ 📷 #mbfeb\n\nToday we built two huge E‘s out of 19 electric cars. The EE stand for „erneuerbare Energien“ - renewable energies. \n\n\n<a href=\"https://www.byzero.de/uploads/2020/d0ae2d67b5.jpg\"><img src=\"uploads/2020/d0ae2d67b5.jpg\" width=\"282\" height=\"500\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-22T23:01:19+01:00",
 				"url": "https://www.byzero.de/2020/02/22/spectacle-mbfeb-today.html"
 			},
@@ -1050,7 +1058,7 @@
 				"id": "http://muhh.micro.blog/2020/02/21/progress-mbfeb-my.html",
 				
 				"content_html": "<p>“Progress” 📱📷 #mbfeb</p>\n<p>My main journal in DayOne has been mostly grey until 1 month ago - and thanks to this photo challenge my “from the internets” journal is completely blue!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "“Progress” 📱📷 #mbfeb\n\nMy main journal in DayOne has been mostly grey until 1 month ago - and thanks to this photo challenge my “from the internets” journal is completely blue!\n\n<a href=\"https://www.byzero.de/uploads/2020/f1a0b523c3.jpg\"><img src=\"https://www.byzero.de/uploads/2020/f1a0b523c3.jpg\" width=\"355\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "“Progress” 📱📷 #mbfeb\n\nMy main journal in DayOne has been mostly grey until 1 month ago - and thanks to this photo challenge my “from the internets” journal is completely blue!\n\n<a href=\"https://www.byzero.de/uploads/2020/f1a0b523c3.jpg\"><img src=\"uploads/2020/f1a0b523c3.jpg\" width=\"355\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-21T22:44:09+01:00",
 				"url": "https://www.byzero.de/2020/02/21/progress-mbfeb-my.html"
 			},
@@ -1058,7 +1066,7 @@
 				"id": "http://muhh.micro.blog/2020/02/20/scale-mbfeb.html",
 				
 				"content_html": "<p>„Scale“ 📷 #mbfeb</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Scale“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/1eab9a3505.jpg\"><img src=\"https://www.byzero.de/uploads/2020/1eab9a3505.jpg\" width=\"600\" height=\"394\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Scale“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/1eab9a3505.jpg\"><img src=\"uploads/2020/1eab9a3505.jpg\" width=\"600\" height=\"394\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-20T23:44:25+01:00",
 				"url": "https://www.byzero.de/2020/02/20/scale-mbfeb.html"
 			},
@@ -1074,7 +1082,7 @@
 				"id": "http://muhh.micro.blog/2020/02/19/space-mbfeb.html",
 				
 				"content_html": "<p>„Space“ 📷 #mbfeb</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Space“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/e0d6d2ba8a.jpg\"><img src=\"https://www.byzero.de/uploads/2020/e0d6d2ba8a.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Space“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/e0d6d2ba8a.jpg\"><img src=\"uploads/2020/e0d6d2ba8a.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-19T23:39:38+01:00",
 				"url": "https://www.byzero.de/2020/02/19/space-mbfeb.html"
 			},
@@ -1082,7 +1090,7 @@
 				"id": "http://muhh.micro.blog/2020/02/19/oppose-mbfeb-with.html",
 				
 				"content_html": "<p>„Oppose“ 📷 #mbfeb</p>\n<p>With a hat tip to <a href=\"https://hutaffe.blog/2020/02/18/oppose-ich-lehne.html\">hutaffe</a>, thanks for the inspiration!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "„Oppose“ 📷 #mbfeb\n\nWith a hat tip to [hutaffe](https://hutaffe.blog/2020/02/18/oppose-ich-lehne.html), thanks for the inspiration!\n\n<img src=\"https://www.byzero.de/uploads/2020/6aae2c4b65.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "„Oppose“ 📷 #mbfeb\n\nWith a hat tip to [hutaffe](https://hutaffe.blog/2020/02/18/oppose-ich-lehne.html), thanks for the inspiration!\n\n<img src=\"uploads/2020/6aae2c4b65.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-02-18T23:13:00+01:00",
 				"url": "https://www.byzero.de/2020/02/19/oppose-mbfeb-with.html"
 			},
@@ -1090,7 +1098,7 @@
 				"id": "http://muhh.micro.blog/2020/02/17/cool-mbfeb.html",
 				
 				"content_html": "<p>„Cool“ 📷 #mbfeb</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Cool“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/005f0b933b.jpg\"><img src=\"https://www.byzero.de/uploads/2020/005f0b933b.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Cool“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/005f0b933b.jpg\"><img src=\"uploads/2020/005f0b933b.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-17T22:04:17+01:00",
 				"url": "https://www.byzero.de/2020/02/17/cool-mbfeb.html"
 			},
@@ -1098,7 +1106,7 @@
 				"id": "http://muhh.micro.blog/2020/02/17/rest-mbfeb.html",
 				
 				"content_html": "<p>„Rest“ 📷 #mbfeb</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Rest“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/e1a274ca10.jpg\"><img src=\"https://www.byzero.de/uploads/2020/e1a274ca10.jpg\" width=\"600\" height=\"448\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Rest“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/e1a274ca10.jpg\"><img src=\"uploads/2020/e1a274ca10.jpg\" width=\"600\" height=\"448\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-16T23:59:00+01:00",
 				"url": "https://www.byzero.de/2020/02/17/rest-mbfeb.html"
 			},
@@ -1106,7 +1114,7 @@
 				"id": "http://muhh.micro.blog/2020/02/15/balance-mbfeb-yearsago.html",
 				
 				"content_html": "<p>„Balance“ 📷 #mbfeb #9yearsago</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Balance“ 📷 #mbfeb #9yearsago\n\n<a href=\"https://www.byzero.de/uploads/2020/c1d513eee9.jpg\"><img src=\"https://www.byzero.de/uploads/2020/c1d513eee9.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Balance“ 📷 #mbfeb #9yearsago\n\n<a href=\"https://www.byzero.de/uploads/2020/c1d513eee9.jpg\"><img src=\"uploads/2020/c1d513eee9.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-15T23:19:56+01:00",
 				"url": "https://www.byzero.de/2020/02/15/balance-mbfeb-yearsago.html"
 			},
@@ -1114,7 +1122,7 @@
 				"id": "http://muhh.micro.blog/2020/02/14/warmth-mbfeb.html",
 				
 				"content_html": "<p>„Warmth“ 📷 #mbfeb</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Warmth“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/14045edec4.jpg\"><img src=\"https://www.byzero.de/uploads/2020/14045edec4.jpg\" width=\"600\" height=\"547\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Warmth“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/14045edec4.jpg\"><img src=\"uploads/2020/14045edec4.jpg\" width=\"600\" height=\"547\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-14T19:15:50+01:00",
 				"url": "https://www.byzero.de/2020/02/14/warmth-mbfeb.html"
 			},
@@ -1130,7 +1138,7 @@
 				"id": "http://muhh.micro.blog/2020/02/13/rise-mbfeb.html",
 				
 				"content_html": "<p>„Rise“ 📷 #mbfeb</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Rise“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/3dbb7167ed.jpg\"><img src=\"https://www.byzero.de/uploads/2020/3dbb7167ed.jpg\" width=\"544\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Rise“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/3dbb7167ed.jpg\"><img src=\"uploads/2020/3dbb7167ed.jpg\" width=\"544\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-13T19:07:03+01:00",
 				"url": "https://www.byzero.de/2020/02/13/rise-mbfeb.html"
 			},
@@ -1146,7 +1154,7 @@
 				"id": "http://muhh.micro.blog/2020/02/12/attachment-mbfeb.html",
 				
 				"content_html": "<p>„Attachment“ 📷 #mbfeb</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Attachment“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/0ed43d182c.jpg\"><img src=\"https://www.byzero.de/uploads/2020/0ed43d182c.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Attachment“ 📷 #mbfeb\n\n<a href=\"https://www.byzero.de/uploads/2020/0ed43d182c.jpg\"><img src=\"uploads/2020/0ed43d182c.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-12T19:03:49+01:00",
 				"url": "https://www.byzero.de/2020/02/12/attachment-mbfeb.html"
 			},
@@ -1154,7 +1162,7 @@
 				"id": "http://muhh.micro.blog/2020/02/11/plain-mbfeb-if.html",
 				
 				"content_html": "<p>„Plain“ 📷 #mbfeb</p>\n<p>If it weren’t so windy…</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Plain“ 📷 #mbfeb\n\nIf it weren’t so windy…\n\n<a href=\"https://www.byzero.de/uploads/2020/f4ddee7dcc.jpg\"><img src=\"https://www.byzero.de/uploads/2020/f4ddee7dcc.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Plain“ 📷 #mbfeb\n\nIf it weren’t so windy…\n\n<a href=\"https://www.byzero.de/uploads/2020/f4ddee7dcc.jpg\"><img src=\"uploads/2020/f4ddee7dcc.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-11T14:03:39+01:00",
 				"url": "https://www.byzero.de/2020/02/11/plain-mbfeb-if.html"
 			},
@@ -1162,7 +1170,7 @@
 				"id": "http://muhh.micro.blog/2020/02/10/sign-mbfeb-lastsummer.html",
 				
 				"content_html": "<p>„Sign“ 📷 #mbfeb #lastsummer</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Sign“ 📷 #mbfeb #lastsummer\n\n<a href=\"https://www.byzero.de/uploads/2020/ebbdc134dc.jpg\"><img src=\"https://www.byzero.de/uploads/2020/ebbdc134dc.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Sign“ 📷 #mbfeb #lastsummer\n\n<a href=\"https://www.byzero.de/uploads/2020/ebbdc134dc.jpg\"><img src=\"uploads/2020/ebbdc134dc.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-10T19:17:36+01:00",
 				"url": "https://www.byzero.de/2020/02/10/sign-mbfeb-lastsummer.html"
 			},
@@ -1170,7 +1178,7 @@
 				"id": "http://muhh.micro.blog/2020/02/09/lull-mbfeb-yearsago.html",
 				
 				"content_html": "<p>„Lull“ #mbfeb 📷 #9yearsago</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Lull“ #mbfeb 📷 #9yearsago\n\n<a href=\"https://www.byzero.de/uploads/2020/edbc64ca04.jpg\"><img src=\"https://www.byzero.de/uploads/2020/edbc64ca04.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Lull“ #mbfeb 📷 #9yearsago\n\n<a href=\"https://www.byzero.de/uploads/2020/edbc64ca04.jpg\"><img src=\"uploads/2020/edbc64ca04.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-09T21:44:14+01:00",
 				"url": "https://www.byzero.de/2020/02/09/lull-mbfeb-yearsago.html"
 			},
@@ -1178,7 +1186,7 @@
 				"id": "http://muhh.micro.blog/2020/02/09/contrast-mbfeb.html",
 				
 				"content_html": "<p>&ldquo;contrast&rdquo; #mbfeb</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"contrast\" #mbfeb\n\n<img src=\"https://www.byzero.de/uploads/2020/c6f2ecf21f.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\"contrast\" #mbfeb\n\n<img src=\"uploads/2020/c6f2ecf21f.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-02-09T01:18:48+01:00",
 				"url": "https://www.byzero.de/2020/02/09/contrast-mbfeb.html"
 			},
@@ -1194,7 +1202,7 @@
 				"id": "http://muhh.micro.blog/2020/02/08/groer-ansturm-in.html",
 				
 				"content_html": "<p>Großer Ansturm in der Sonne im und überm Saaletal #hammelburg #wirliebenhammelburg</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Großer Ansturm in der Sonne im und überm Saaletal #hammelburg #wirliebenhammelburg\n\n<img src=\"https://www.byzero.de/uploads/2020/d17fbbac28.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Großer Ansturm in der Sonne im und überm Saaletal #hammelburg #wirliebenhammelburg\n\n<img src=\"uploads/2020/d17fbbac28.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-02-08T15:29:07+01:00",
 				"url": "https://www.byzero.de/2020/02/08/groer-ansturm-in.html"
 			},
@@ -1202,7 +1210,7 @@
 				"id": "http://muhh.micro.blog/2020/02/07/above-mbfeb.html",
 				
 				"content_html": "<p>„Above“ #mbfeb 📷</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Above“ #mbfeb 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/11bcdd7ba2.jpg\"><img src=\"https://www.byzero.de/uploads/2020/11bcdd7ba2.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Above“ #mbfeb 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/11bcdd7ba2.jpg\"><img src=\"uploads/2020/11bcdd7ba2.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-07T14:34:17+01:00",
 				"url": "https://www.byzero.de/2020/02/07/above-mbfeb.html"
 			},
@@ -1210,7 +1218,7 @@
 				"id": "http://muhh.micro.blog/2020/02/06/plant-mbfeb.html",
 				
 				"content_html": "<p>„Plant“ #mbfeb 📷</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Plant“ #mbfeb 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/ec51b9628d.jpg\"><img src=\"https://www.byzero.de/uploads/2020/ec51b9628d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Plant“ #mbfeb 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/ec51b9628d.jpg\"><img src=\"uploads/2020/ec51b9628d.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-06T20:58:07+01:00",
 				"url": "https://www.byzero.de/2020/02/06/plant-mbfeb.html"
 			},
@@ -1226,7 +1234,7 @@
 				"id": "http://muhh.micro.blog/2020/02/05/hide-mbfeb-yearsago.html",
 				
 				"content_html": "<p>„Hide“ #mbfeb #6yearsago 📷</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "„Hide“ #mbfeb #6yearsago 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/39b072e148.jpg\"><img src=\"https://www.byzero.de/uploads/2020/39b072e148.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "„Hide“ #mbfeb #6yearsago 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/39b072e148.jpg\"><img src=\"uploads/2020/39b072e148.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-05T15:07:46+01:00",
 				"url": "https://www.byzero.de/2020/02/05/hide-mbfeb-yearsago.html"
 			},
@@ -1234,7 +1242,7 @@
 				"id": "http://muhh.micro.blog/2020/02/04/blue-spot-mbfeb.html",
 				
 				"content_html": "<p>Blue spot #mbfeb 📷</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Blue spot #mbfeb 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/431e9e2d22.jpg\"><img src=\"https://www.byzero.de/uploads/2020/431e9e2d22.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Blue spot #mbfeb 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/431e9e2d22.jpg\"><img src=\"uploads/2020/431e9e2d22.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-04T16:18:00+01:00",
 				"url": "https://www.byzero.de/2020/02/04/blue-spot-mbfeb.html"
 			},
@@ -1242,7 +1250,7 @@
 				"id": "http://muhh.micro.blog/2020/02/03/day-of-mbfeb.html",
 				
 				"content_html": "<p>Day 3 of #mbfeb: „reflect“. 📷</p>\n<p>I know, not so much. But that’s how it is today.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Day 3 of #mbfeb: „reflect“. 📷\n\nI know, not so much. But that’s how it is today. \n\n<a href=\"https://www.byzero.de/uploads/2020/93a4274866.jpg\"><img src=\"https://www.byzero.de/uploads/2020/93a4274866.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Day 3 of #mbfeb: „reflect“. 📷\n\nI know, not so much. But that’s how it is today. \n\n<a href=\"https://www.byzero.de/uploads/2020/93a4274866.jpg\"><img src=\"uploads/2020/93a4274866.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-03T13:52:41+01:00",
 				"url": "https://www.byzero.de/2020/02/03/day-of-mbfeb.html"
 			},
@@ -1250,7 +1258,7 @@
 				"id": "http://muhh.micro.blog/2020/02/02/end-of-a.html",
 				
 				"content_html": "<p>End of a dark day in sight #mbfeb 📷</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "End of a dark day in sight #mbfeb 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/86afd5e452.jpg\"><img src=\"https://www.byzero.de/uploads/2020/86afd5e452.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "End of a dark day in sight #mbfeb 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/86afd5e452.jpg\"><img src=\"uploads/2020/86afd5e452.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-02-02T19:44:57+01:00",
 				"url": "https://www.byzero.de/2020/02/02/end-of-a.html"
 			},
@@ -1258,7 +1266,7 @@
 				"id": "http://muhh.micro.blog/2020/02/01/since-i-almost.html",
 				
 				"content_html": "<p>Since I almost missed the first day of the <a href=\"https://micro.welltempered.net/2020/01/31/february-photoblogging-challenge.html\">photoblogging challenge on micro.blog</a> I had to get creative and open up the door to our garden to let in some unusual warm night air.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Since I almost missed the first day of the [photoblogging challenge on micro.blog](https://micro.welltempered.net/2020/01/31/february-photoblogging-challenge.html) I had to get creative and open up the door to our garden to let in some unusual warm night air.  \n\n<img src=\"https://www.byzero.de/uploads/2020/def648ed3b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Since I almost missed the first day of the [photoblogging challenge on micro.blog](https://micro.welltempered.net/2020/01/31/february-photoblogging-challenge.html) I had to get creative and open up the door to our garden to let in some unusual warm night air.  \n\n<img src=\"uploads/2020/def648ed3b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-02-01T23:04:28+01:00",
 				"url": "https://www.byzero.de/2020/02/01/since-i-almost.html"
 			},
@@ -1282,7 +1290,7 @@
 				"id": "http://muhh.micro.blog/2020/01/24/eine-fahrradtour-durch.html",
 				
 				"content_html": "<h2 id=\"eine-fahrradtour-durch-hammelburg\">Eine Fahrradtour durch Hammelburg</h2>\n<!-- raw HTML omitted -->\n<p>In seiner nächsten Sitzung wird der Stadtrat über ein Verkehrskonzept für Hammelburg entscheiden wollen.\n<a href=\"https://www.infranken.de/regional/bad-kissingen/hammelburg/verkehrskonzept-hammelburg-dauerthema-erneut-im-stadtrat;art14324,4781570\">Die Saale-Zeitung berichtet sogar aktuell darüber und erklärt den aktuellen Stand</a>.</p>\n<p>Mir liegt es schon seit langem am Herzen, dass bei solchen Entscheidungen besonders auf die Menschen, die außerhalb von Autos am Verkehr in Hammelburg teilnehmen – Fussgänger und Radfahrer, ältere Menschen an Rollatoren und Kinder auf Laufrädern oder Fahrrädern, Kinderwagenschieber wie ich und viele andere – auch beachtet werden.</p>\n<p>Aus diesem Grund lade ich euch zu einer kleinen Fahrradtour durch Hammelburg ein.</p>\n<p>Treffpunkt ist am 31. Januar um 15.30 Uhr am Hammelburger Marktplatz von wo aus wir ein paar Runden durch unsere schöne Stadt drehen werden. Eine festgelegte Route gibt es nicht, es soll eine gemütliche Fahrt durch Strassen und Gassen sein.</p>\n<p>Mit etwas Glück werden wir mehr als 15 Leute, wodurch wir in einem <a href=\"https://www.adfc-nrw.de/kreisverbaende/kv-bottrop/radverkehr/verkehrsregeln/geschlossener-verband.html\">geschlossenen Verband</a> - auch bekannt als Fahrradkolonne - fahren können.</p>\n<p>Ziel ist es ein wenig Aufmerksamkeit auf uns als Radfahrer zu bekommen, damit der Stadtrat nicht nur die Bedürfnisse von Auto- und Lieferverkehr beachtet, sondern eben auch alle anderen Verkehrsteilnehmer bewusst einbezieht.</p>\n<p>Foto von Thomas Elsässer.</p>\n<p>Update, 27.01.: Wir treffen uns etwas später, um 15.30 Uhr, damit mehr Leute dabei sein können.</p>\n",
-				"content_text": "## Eine Fahrradtour durch Hammelburg\n\n<img src=\"https://www.byzero.de/uploads/2022/48bc35055f.jpg\" width=\"600\" height=\"319\" alt=\"\" />\n\nIn seiner nächsten Sitzung wird der Stadtrat über ein Verkehrskonzept für Hammelburg entscheiden wollen. \n[Die Saale-Zeitung berichtet sogar aktuell darüber und erklärt den aktuellen Stand](https://www.infranken.de/regional/bad-kissingen/hammelburg/verkehrskonzept-hammelburg-dauerthema-erneut-im-stadtrat;art14324,4781570).\n\nMir liegt es schon seit langem am Herzen, dass bei solchen Entscheidungen besonders auf die Menschen, die außerhalb von Autos am Verkehr in Hammelburg teilnehmen – Fussgänger und Radfahrer, ältere Menschen an Rollatoren und Kinder auf Laufrädern oder Fahrrädern, Kinderwagenschieber wie ich und viele andere – auch beachtet werden. \n\nAus diesem Grund lade ich euch zu einer kleinen Fahrradtour durch Hammelburg ein. \n\nTreffpunkt ist am 31. Januar um 15.30 Uhr am Hammelburger Marktplatz von wo aus wir ein paar Runden durch unsere schöne Stadt drehen werden. Eine festgelegte Route gibt es nicht, es soll eine gemütliche Fahrt durch Strassen und Gassen sein.\n\nMit etwas Glück werden wir mehr als 15 Leute, wodurch wir in einem [geschlossenen Verband](https://www.adfc-nrw.de/kreisverbaende/kv-bottrop/radverkehr/verkehrsregeln/geschlossener-verband.html) - auch bekannt als Fahrradkolonne - fahren können. \n\nZiel ist es ein wenig Aufmerksamkeit auf uns als Radfahrer zu bekommen, damit der Stadtrat nicht nur die Bedürfnisse von Auto- und Lieferverkehr beachtet, sondern eben auch alle anderen Verkehrsteilnehmer bewusst einbezieht.\n\nFoto von Thomas Elsässer.\n\nUpdate, 27.01.: Wir treffen uns etwas später, um 15.30 Uhr, damit mehr Leute dabei sein können.\n",
+				"content_text": "## Eine Fahrradtour durch Hammelburg\n\n<img src=\"uploads/2022/48bc35055f.jpg\" width=\"600\" height=\"319\" alt=\"\" />\n\nIn seiner nächsten Sitzung wird der Stadtrat über ein Verkehrskonzept für Hammelburg entscheiden wollen. \n[Die Saale-Zeitung berichtet sogar aktuell darüber und erklärt den aktuellen Stand](https://www.infranken.de/regional/bad-kissingen/hammelburg/verkehrskonzept-hammelburg-dauerthema-erneut-im-stadtrat;art14324,4781570).\n\nMir liegt es schon seit langem am Herzen, dass bei solchen Entscheidungen besonders auf die Menschen, die außerhalb von Autos am Verkehr in Hammelburg teilnehmen – Fussgänger und Radfahrer, ältere Menschen an Rollatoren und Kinder auf Laufrädern oder Fahrrädern, Kinderwagenschieber wie ich und viele andere – auch beachtet werden. \n\nAus diesem Grund lade ich euch zu einer kleinen Fahrradtour durch Hammelburg ein. \n\nTreffpunkt ist am 31. Januar um 15.30 Uhr am Hammelburger Marktplatz von wo aus wir ein paar Runden durch unsere schöne Stadt drehen werden. Eine festgelegte Route gibt es nicht, es soll eine gemütliche Fahrt durch Strassen und Gassen sein.\n\nMit etwas Glück werden wir mehr als 15 Leute, wodurch wir in einem [geschlossenen Verband](https://www.adfc-nrw.de/kreisverbaende/kv-bottrop/radverkehr/verkehrsregeln/geschlossener-verband.html) - auch bekannt als Fahrradkolonne - fahren können. \n\nZiel ist es ein wenig Aufmerksamkeit auf uns als Radfahrer zu bekommen, damit der Stadtrat nicht nur die Bedürfnisse von Auto- und Lieferverkehr beachtet, sondern eben auch alle anderen Verkehrsteilnehmer bewusst einbezieht.\n\nFoto von Thomas Elsässer.\n\nUpdate, 27.01.: Wir treffen uns etwas später, um 15.30 Uhr, damit mehr Leute dabei sein können.\n",
 				"date_published": "2020-01-24T10:49:00+01:00",
 				"url": "https://www.byzero.de/2020/01/24/eine-fahrradtour-durch.html"
 			},
@@ -1290,7 +1298,7 @@
 				"id": "http://muhh.micro.blog/2020/01/15/es-ist-warm.html",
 				
 				"content_html": "<p>Es ist warm in #hammelburg. Und sauhell. #sunny #wirliebenhammelburg #mittagspause</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Es ist warm in #hammelburg. Und sauhell. #sunny #wirliebenhammelburg #mittagspause\n\n<img src=\"https://www.byzero.de/uploads/2020/c24e204da2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Es ist warm in #hammelburg. Und sauhell. #sunny #wirliebenhammelburg #mittagspause\n\n<img src=\"uploads/2020/c24e204da2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-01-15T12:42:54+01:00",
 				"url": "https://www.byzero.de/2020/01/15/es-ist-warm.html"
 			},
@@ -1298,7 +1306,7 @@
 				"id": "http://muhh.micro.blog/2020/01/15/115056.html",
 				
 				"content_html": "<p>Es ist warm in Hammelburg.\nUnd hell.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Es ist warm in Hammelburg. \nUnd hell. \n\n<img src=\"https://www.byzero.de/uploads/2022/a6e1c26107.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Es ist warm in Hammelburg. \nUnd hell. \n\n<img src=\"uploads/2022/a6e1c26107.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-01-15T11:50:56+01:00",
 				"url": "https://www.byzero.de/2020/01/15/115056.html"
 			},
@@ -1306,7 +1314,7 @@
 				"id": "http://muhh.micro.blog/2020/01/13/this-is-more.html",
 				
 				"content_html": "<p>This is more or less a test post to do what is in the screenshot. What it does? Grab a Instagram post, download the pic and post it to my new home at micro.blog using #micropub</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is more or less a test post to do what is in the screenshot. What it does? Grab a Instagram post, download the pic and post it to my new home at micro.blog using #micropub\n\n<img src=\"https://www.byzero.de/uploads/2020/73f490eb85.jpg\" width=\"600\" height=\"358\" alt=\"\" />\n",
+				"content_text": "This is more or less a test post to do what is in the screenshot. What it does? Grab a Instagram post, download the pic and post it to my new home at micro.blog using #micropub\n\n<img src=\"uploads/2020/73f490eb85.jpg\" width=\"600\" height=\"358\" alt=\"\" />\n",
 				"date_published": "2020-01-13T22:46:52+01:00",
 				"url": "https://www.byzero.de/2020/01/13/this-is-more.html"
 			},
@@ -1314,7 +1322,7 @@
 				"id": "http://muhh.micro.blog/2020/01/11/on-the-bright.html",
 				
 				"content_html": "<p>On the bright side</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "On the bright side \n\n<a href=\"https://www.byzero.de/uploads/2020/e0ca54b3f6.jpg\"><img src=\"https://www.byzero.de/uploads/2020/e0ca54b3f6.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "On the bright side \n\n<a href=\"https://www.byzero.de/uploads/2020/e0ca54b3f6.jpg\"><img src=\"uploads/2020/e0ca54b3f6.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-01-11T14:53:00+01:00",
 				"url": "https://www.byzero.de/2020/01/11/on-the-bright.html"
 			},
@@ -1322,7 +1330,7 @@
 				"id": "http://muhh.micro.blog/2020/01/08/brought-back-some.html",
 				
 				"content_html": "<p>Brought back some paper into my life 📷</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Brought back some paper into my life 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/ff6093ed3e.jpg\"><img src=\"https://www.byzero.de/uploads/2020/ff6093ed3e.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Brought back some paper into my life 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/ff6093ed3e.jpg\"><img src=\"uploads/2020/ff6093ed3e.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-01-08T16:21:26+01:00",
 				"url": "https://www.byzero.de/2020/01/08/brought-back-some.html"
 			},
@@ -1338,7 +1346,7 @@
 				"id": "http://muhh.micro.blog/2020/01/06/es-ist-mal.html",
 				
 				"content_html": "<p>Es ist mal wieder Zeit für schwimmen in meinem Leben.\nIst schon wieder viel zu lange her.</p>\n<p>Zum Einstieg hab ich mir 2x 1000m mit kleiner Pause gegönnt. Entspannt.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Es ist mal wieder Zeit für schwimmen in meinem Leben. \nIst schon wieder viel zu lange her. \n\nZum Einstieg hab ich mir 2x 1000m mit kleiner Pause gegönnt. Entspannt. \n\n<a href=\"https://www.byzero.de/uploads/2020/e8fa04289b.jpg\"><img src=\"https://www.byzero.de/uploads/2020/e8fa04289b.jpg\" width=\"535\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2020/79ceda7adb.jpg\"><img src=\"https://www.byzero.de/uploads/2020/79ceda7adb.jpg\" width=\"524\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Es ist mal wieder Zeit für schwimmen in meinem Leben. \nIst schon wieder viel zu lange her. \n\nZum Einstieg hab ich mir 2x 1000m mit kleiner Pause gegönnt. Entspannt. \n\n<a href=\"https://www.byzero.de/uploads/2020/e8fa04289b.jpg\"><img src=\"uploads/2020/e8fa04289b.jpg\" width=\"535\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2020/79ceda7adb.jpg\"><img src=\"uploads/2020/79ceda7adb.jpg\" width=\"524\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-01-06T18:04:00+01:00",
 				"url": "https://www.byzero.de/2020/01/06/es-ist-mal.html"
 			},
@@ -1346,7 +1354,7 @@
 				"id": "http://muhh.micro.blog/2020/01/04/lieblingsort.html",
 				
 				"content_html": "<p>Lieblingsort 📷</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Lieblingsort 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/de00bed5cb.jpg\"><img src=\"https://www.byzero.de/uploads/2020/de00bed5cb.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Lieblingsort 📷\n\n<a href=\"https://www.byzero.de/uploads/2020/de00bed5cb.jpg\"><img src=\"uploads/2020/de00bed5cb.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-01-04T08:05:00+01:00",
 				"url": "https://www.byzero.de/2020/01/04/lieblingsort.html"
 			},
