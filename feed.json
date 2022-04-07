@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2022/04/06/for-the-record.html",
+				
+				"content_html": "<p>For the record: all family members are out of isolation.</p>\n<p>Let&rsquo;s hope we have all built up enough immunity to have a quiet time until the next variants arrive.</p>\n",
+				"content_text": "For the record: all family members are out of isolation. \r\n\r\nLet's hope we have all built up enough immunity to have a quiet time until the next variants arrive.\n",
+				"date_published": "2022-04-06T18:16:37+02:00",
+				"url": "https://www.byzero.de/2022/04/06/for-the-record.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/04/03/of-officially-tested.html",
+				
+				"content_html": "<p>3 of 5 officially tested negative 🌞</p>\n",
+				"content_text": "3 of 5 officially tested negative 🌞\n",
+				"date_published": "2022-04-03T11:23:38+02:00",
+				"url": "https://www.byzero.de/2022/04/03/of-officially-tested.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/04/01/this-is-how.html",
+				
+				"content_html": "<p>🔗 <a href=\"https://www.orderofthegooddeath.com/article/this-is-how-you-died/\">This is How You Died – The Order\nof the Good Death</a></p>\n<blockquote>\n<p>A physician who worked on the frontline during the Covid-19 pandemic addresses an auditorium she imagines is full of her patients who died.</p>\n</blockquote>\n<p>😢</p>\n<hr>\n<p>via <a href=\"https://miraz.me/2022/04/02/a-hard-but.html\">@miraz</a></p>\n",
+				"content_text": "🔗 [This is How You Died – The Order\nof the Good Death](https://www.orderofthegooddeath.com/article/this-is-how-you-died/)\n\n> A physician who worked on the frontline during the Covid-19 pandemic addresses an auditorium she imagines is full of her patients who died.\n\n😢\n\n---\nvia [@miraz](https://miraz.me/2022/04/02/a-hard-but.html)\n",
+				"date_published": "2022-04-01T21:49:00+02:00",
+				"url": "https://www.byzero.de/2022/04/01/this-is-how.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/04/01/170759.html",
+				
+				"content_html": "<p>🪦 🍑</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🪦 🍑 \n\n<img src=\"uploads/2022/f3446540eb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-04-01T17:07:59+02:00",
+				"url": "https://www.byzero.de/2022/04/01/170759.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/03/31/der-kleine-gallier.html",
+				
+				"content_html": "<p><a href=\"https://www.byzero.de/2022/03/28/tag-seit-der.html\">Der kleine Gallier</a> ist jetzt auch gefallen.</p>\n<p>Durchseuchung abgeschlossen.</p>\n",
+				"content_text": "[Der kleine Gallier](https://www.byzero.de/2022/03/28/tag-seit-der.html) ist jetzt auch gefallen. \n\nDurchseuchung abgeschlossen. \n",
+				"date_published": "2022-03-31T15:18:41+02:00",
+				"url": "https://www.byzero.de/2022/03/31/der-kleine-gallier.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2022/03/30/main-achievement-today.html",
 				
 				"content_html": "<p>Main achievement today, besides not spending the whole day in bed: wrote JavaScript in <a href=\"https://scriptable.app/\">Scriptable</a> to create an iOS widget. It grabs the result of the PCR test of the last family member to get infected. Yay.</p>\n",
@@ -26,7 +66,7 @@
 				"id": "http://muhh.micro.blog/2022/03/28/tag-seit-der.html",
 				
 				"content_html": "<p>Tag 6 seit der <a href=\"https://www.byzero.de/2022/03/22/sarscov-has-entered.html\">Ankunft im Haus</a>. Mein Körper hat seit Donnerstag damit zu tun, Freitag PCR Test mit einem ct Wert &lt;20. Eine absolut überfordernde Schwäche ist das schlimmste Symptom. Geht aber schon wieder besser.</p>\n<p>Nur ein kleiner Gallier hat bisher Stand halten können, ansonsten ist die Familie komplett durchseucht.</p>\n<p>Im Bild mein Schnelltest von gerade eben, 3 Minuten nach Start. Örgs.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tag 6 seit der [Ankunft im Haus](https://www.byzero.de/2022/03/22/sarscov-has-entered.html). Mein Körper hat seit Donnerstag damit zu tun, Freitag PCR Test mit einem ct Wert <20. Eine absolut überfordernde Schwäche ist das schlimmste Symptom. Geht aber schon wieder besser. \n\nNur ein kleiner Gallier hat bisher Stand halten können, ansonsten ist die Familie komplett durchseucht. \n\nIm Bild mein Schnelltest von gerade eben, 3 Minuten nach Start. Örgs. \n\n<img src=\"uploads/2022/df0070e468.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "Tag 6 seit der [Ankunft im Haus](https://www.byzero.de/2022/03/22/sarscov-has-entered.html). Mein Körper hat seit Donnerstag damit zu tun, Freitag PCR Test mit einem ct Wert <20. Eine absolut überfordernde Schwäche ist das schlimmste Symptom. Geht aber schon wieder besser. \n\nNur ein kleiner Gallier hat bisher Stand halten können, ansonsten ist die Familie komplett durchseucht. \n\nIm Bild mein Schnelltest von gerade eben, 3 Minuten nach Start. Örgs. \n\n<img src=\"https://www.byzero.de/uploads/2022/df0070e468.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-28T09:22:57+02:00",
 				"url": "https://www.byzero.de/2022/03/28/tag-seit-der.html"
 			},
@@ -42,7 +82,7 @@
 				"id": "http://muhh.micro.blog/2022/03/14/sitze-am-kchentisch.html",
 				
 				"content_html": "<p>Sitze am Küchentisch um beim Arbeiten die Gesellschaft des lieben Hundes zu haben.</p>\n<p>„Time after time“ nach Miles Davis im Ohr und feiner Kaffee vor mir.</p>\n<p>Seit gefühlt Jahren habe ich heute mal 4 Stunden an einem Montag morgen &ldquo;für mich&rdquo;.</p>\n<p>Ich kann mich in diesem Bild sehen und es ist mir egal.</p>\n<hr>\n<p>Sitting at the kitchen table to have the company of the dear dog while I work.</p>\n<p>Miles Davis' &ldquo;Time after Time&rdquo; in my ear and fine coffee in front of me.</p>\n<p>For what feels like years, I have 4 hours &ldquo;to myself&rdquo; on a Monday morning.</p>\n<p>I can see myself in this picture and I can&rsquo;t care anymore.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sitze am Küchentisch um beim Arbeiten die Gesellschaft des lieben Hundes zu haben.\n\n„Time after time“ nach Miles Davis im Ohr und feiner Kaffee vor mir.\n\nSeit gefühlt Jahren habe ich heute mal 4 Stunden an einem Montag morgen \"für mich\".\n\nIch kann mich in diesem Bild sehen und es ist mir egal.\n\n---\n\nSitting at the kitchen table to have the company of the dear dog while I work.\n\nMiles Davis' \"Time after Time\" in my ear and fine coffee in front of me.\n\nFor what feels like years, I have 4 hours \"to myself\" on a Monday morning.\n\nI can see myself in this picture and I can't care anymore.\n\n<img src=\"uploads/2022/591f7eca4e.gif\" width=\"480\" height=\"270\" alt=\"\" />\n",
+				"content_text": "Sitze am Küchentisch um beim Arbeiten die Gesellschaft des lieben Hundes zu haben.\n\n„Time after time“ nach Miles Davis im Ohr und feiner Kaffee vor mir.\n\nSeit gefühlt Jahren habe ich heute mal 4 Stunden an einem Montag morgen \"für mich\".\n\nIch kann mich in diesem Bild sehen und es ist mir egal.\n\n---\n\nSitting at the kitchen table to have the company of the dear dog while I work.\n\nMiles Davis' \"Time after Time\" in my ear and fine coffee in front of me.\n\nFor what feels like years, I have 4 hours \"to myself\" on a Monday morning.\n\nI can see myself in this picture and I can't care anymore.\n\n<img src=\"https://www.byzero.de/uploads/2022/591f7eca4e.gif\" width=\"480\" height=\"270\" alt=\"\" />\n",
 				"date_published": "2022-03-14T11:42:57+02:00",
 				"url": "https://www.byzero.de/2022/03/14/sitze-am-kchentisch.html"
 			},
@@ -50,7 +90,7 @@
 				"id": "http://muhh.micro.blog/2022/03/10/familienkutsche.html",
 				
 				"content_html": "<p>Familienkutsche</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Familienkutsche\n\n<img src=\"uploads/2022/19971cfb7b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Familienkutsche\n\n<img src=\"https://www.byzero.de/uploads/2022/19971cfb7b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-10T18:58:02+02:00",
 				"url": "https://www.byzero.de/2022/03/10/familienkutsche.html"
 			},
