@@ -7,11 +7,35 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2022/04/22/black-dog.html",
+				
+				"content_html": "<p>Black dog</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Black dog\n\n<img src=\"uploads/2022/76ae30a74b.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2022-04-22T20:39:04+02:00",
+				"url": "https://www.byzero.de/2022/04/22/black-dog.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/04/20/cd-home.html",
+				
+				"content_html": "<p><code>cd $HOME</code></p>\n",
+				"content_text": "`cd $HOME`\n",
+				"date_published": "2022-04-20T01:14:50+02:00",
+				"url": "https://www.byzero.de/2022/04/20/cd-home.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/04/17/224211.html",
+				
+				"content_html": "<p>Wordle is nice and all, but this is my kind of guessing game.</p>\n<blockquote>\n<p>#Heardle #51</p>\n</blockquote>\n<p>🔊🟩⬜️⬜️⬜️⬜️⬜️</p>\n<p><a href=\"https://heardle.app\">heardle.app</a></p>\n<p>Via <a href=\"https://alicebartlett.co.uk/blog/weaknotes-189\">Alice Bartlett’s weaknote</a></p>\n",
+				"content_text": "Wordle is nice and all, but this is my kind of guessing game. \n\n> #Heardle #51\n\n🔊🟩⬜️⬜️⬜️⬜️⬜️\n\n[heardle.app](https://heardle.app)\n\nVia [Alice Bartlett’s weaknote](https://alicebartlett.co.uk/blog/weaknotes-189)\n",
+				"date_published": "2022-04-17T22:42:11+02:00",
+				"url": "https://www.byzero.de/2022/04/17/224211.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2022/04/15/zwei-jahre-und.html",
 				
-				"content_html": "<p>💫<a href=\"https://wuerzblog.de/2022/04/15/zwei-jahre-und-drei-tage-das-blog-und-ich-im-fediverse/\">Zwei Jahre und drei Tage: Das Blog und ich im Fediverse - Würzblog</a></p>\n",
-				"content_text": "💫[Zwei Jahre und drei Tage: Das Blog und ich im Fediverse - Würzblog](https://wuerzblog.de/2022/04/15/zwei-jahre-und-drei-tage-das-blog-und-ich-im-fediverse/)\n",
-				"date_published": "2022-04-15T19:58:40+02:00",
+				"content_html": "<p>💫 <a href=\"https://wuerzblog.de/2022/04/15/zwei-jahre-und-drei-tage-das-blog-und-ich-im-fediverse/\">Zwei Jahre und drei Tage: Das Blog und ich im Fediverse - Würzblog</a></p>\n",
+				"content_text": "💫 [Zwei Jahre und drei Tage: Das Blog und ich im Fediverse - Würzblog](https://wuerzblog.de/2022/04/15/zwei-jahre-und-drei-tage-das-blog-und-ich-im-fediverse/)\n",
+				"date_published": "2022-04-15T19:58:00+02:00",
 				"url": "https://www.byzero.de/2022/04/15/zwei-jahre-und.html"
 			},
 			{
@@ -34,7 +58,7 @@
 				"id": "http://muhh.micro.blog/2022/04/11/in-the-zone.html",
 				
 				"content_html": "<p>In the zone</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In the zone \n\n<img src=\"uploads/2022/b9d8ee90f7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "In the zone \n\n<img src=\"https://www.byzero.de/uploads/2022/b9d8ee90f7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-11T13:48:31+02:00",
 				"url": "https://www.byzero.de/2022/04/11/in-the-zone.html"
 			},
