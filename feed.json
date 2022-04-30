@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2022/05/01/its-photo-challenge.html",
+				
+				"content_html": "<p>It&rsquo;s photo challenge time on micro.blog. I&rsquo;m going to post a photo every day in May 2022 matching a new prompt.</p>\n<p>The last time I did this I had a lot of fun, and I&rsquo;m going to do this again.</p>\n<p>So let&rsquo;s see where I can find a &ldquo;switch&rdquo; tomorrow when we are going out on May 1st hikes.</p>\n",
+				"content_text": "It's photo challenge time on micro.blog. I'm going to post a photo every day in May 2022 matching a new prompt.\r\n\r\nThe last time I did this I had a lot of fun, and I'm going to do this again.\r\n\r\nSo let's see where I can find a \"switch\" tomorrow when we are going out on May 1st hikes.\n",
+				"date_published": "2022-05-01T00:34:53+02:00",
+				"url": "https://www.byzero.de/2022/05/01/its-photo-challenge.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/04/28/rotary-unsmartphone-rotary.html",
+				
+				"content_html": "<p>💫 <a href=\"https://skysedge.com/unsmartphones/RUSP/index.html\">Rotary Un-Smartphone</a></p>\n<blockquote>\n<p>Rotary Un-Smartphone™ Kit\nA cellphone. You know&hellip; for making CALLS.</p>\n</blockquote>\n<p>I’m so close to pre-ordering this. I’m searching for reasons. Although I’m 💯 sure I would never let anyone see me using it.</p>\n<p>Maybe as a landline replacement then? 🧐</p>\n",
+				"content_text": "💫 [Rotary Un-Smartphone](https://skysedge.com/unsmartphones/RUSP/index.html)\n\n> Rotary Un-Smartphone™ Kit\nA cellphone. You know... for making CALLS.\n\nI’m so close to pre-ordering this. I’m searching for reasons. Although I’m 💯 sure I would never let anyone see me using it. \n\nMaybe as a landline replacement then? 🧐\n",
+				"date_published": "2022-04-28T21:49:48+02:00",
+				"url": "https://www.byzero.de/2022/04/28/rotary-unsmartphone-rotary.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/04/28/i-really-enjoy.html",
+				
+				"content_html": "<p>I really enjoy my time on the Fediverse and I&rsquo;m going to stay there. I&rsquo;m already thinking about putting even more eggs into that basket.</p>\n<p>But this won&rsquo;t solve any issues happening on Twitter, despite the hope and notions you can read about this.</p>\n<blockquote>\n<p>We are never absolved from doing the hard work of deeply working with real people in order to serve them. A technology-first approach never wins.</p>\n</blockquote>\n<ul>\n<li><a href=\"https://werd.io/2022/mastodon-and-the-future-of-twitter\">Ben Werdmüller</a></li>\n</ul>\n",
+				"content_text": "I really enjoy my time on the Fediverse and I'm going to stay there. I'm already thinking about putting even more eggs into that basket.\n\nBut this won't solve any issues happening on Twitter, despite the hope and notions you can read about this.\n \n> We are never absolved from doing the hard work of deeply working with real people in order to serve them. A technology-first approach never wins.\n\n- [Ben Werdmüller](https://werd.io/2022/mastodon-and-the-future-of-twitter)\n",
+				"date_published": "2022-04-28T11:52:18+02:00",
+				"url": "https://www.byzero.de/2022/04/28/i-really-enjoy.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2022/04/22/black-dog.html",
 				
 				"content_html": "<p>Black dog</p>\n<!-- raw HTML omitted -->\n",
@@ -50,7 +74,7 @@
 				"id": "http://muhh.micro.blog/2022/04/12/155321.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/0de7e98690.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://www.byzero.de/uploads/2022/0de7e98690.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-12T15:53:21+02:00",
 				"url": "https://www.byzero.de/2022/04/12/155321.html"
 			},
