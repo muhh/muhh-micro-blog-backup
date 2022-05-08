@@ -7,11 +7,75 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2022/05/08/son-and-father.html",
+				
+				"content_html": "<p>Son and father, in union at the hospital. On Mothers Day. 📷 #mbday</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Son and father, in union at the hospital. On Mothers Day. 📷 #mbday\n\n<img src=\"uploads/2022/50adcddad1.jpg\" width=\"600\" height=\"399\" alt=\"\" />\n",
+				"date_published": "2022-05-08T16:49:04+02:00",
+				"url": "https://www.byzero.de/2022/05/08/son-and-father.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/05/07/we-went-to.html",
+				
+				"content_html": "<p>We went to a dinosaur park in Italy. It was weird. 📷 #mbday</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We went to a dinosaur park in Italy. It was weird. 📷 #mbday\n\n<img src=\"uploads/2022/db9f88c33d.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-07T23:46:28+02:00",
+				"url": "https://www.byzero.de/2022/05/07/we-went-to.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/05/06/i-missed-yesterdays.html",
+				
+				"content_html": "<p>I missed yesterday&rsquo;s micro.blog photo challenge post on the prompt &ldquo;Earth&rdquo;.</p>\n<p>So today I bring you my first attempt at a photo of Earth&rsquo;s satellite with a slight silhouette of the lights of Volterra in beautiful Tuscany, Italy. #mbday 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I missed yesterday's micro.blog photo challenge post on the prompt \"Earth\".  \n\nSo today I bring you my first attempt at a photo of Earth's satellite with a slight silhouette of the lights of Volterra in beautiful Tuscany, Italy. #mbday 📷\n\n<img src=\"uploads/2022/c2a07b381f.jpg\" width=\"600\" height=\"600\" alt=\"Slightly red but full moon over the shimmering lights of the town of Volterra in Tuscany, Italy.\" />\n",
+				"date_published": "2022-05-06T13:03:00+02:00",
+				"url": "https://www.byzero.de/2022/05/06/i-missed-yesterdays.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/05/05/not-so-thorny.html",
+				
+				"content_html": "<p>Not so thorny thorns. 📷 #mbmay</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Not so thorny thorns. 📷 #mbmay\n\n<img src=\"uploads/2022/52abc79ada.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-05T00:15:26+02:00",
+				"url": "https://www.byzero.de/2022/05/05/not-so-thorny.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/05/04/its-the-year.html",
+				"title": "It's the year of Linux (on my desktop)",
+				"content_html": "<p>It&rsquo;s decided that I will use a Linux desktop as my primary work driver. I won&rsquo;t be leaving the Apple ecosystem for very different reasons, but I need to find ways to integrate all the other OSes now.</p>\n<p>I&rsquo;ll try to write about that journey a bit, and I&rsquo;m going to start with my hardware choices.</p>\n<p>I have fond memories of my 11&quot; Macbook Air, which was just the best computer I ever used. The form factor was made for me as a mobile computer, and with its i7, it was powerful for everything I needed.<br>\nSo in autumn of last year, I wanted to try Linux again, which is why I have ordered a <a href=\"https://de.starlabs.systems/products/starlite\">Starlite Mk IV 11-inch laptop</a>. This is supposed to be the mobile workstation I can throw in the bag.<br>\nI have been waiting for months now because of Covid related delays.</p>\n<p>But for real work™, I need something more powerful, and I want it soon. I&rsquo;m getting more annoyed with bugs<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup>, and the stopgaps I&rsquo;m confronted with because of Apple&rsquo;s switch to the ARM processor architecture are worse than I expected when getting the machine. Because of it, I can&rsquo;t use my development workflows directly on my Macbook Air<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup> but need to work remotely on Linux machines. This is ok since I work 95% in a shell and with neovim, but not all the time and exceptionally not well when I want to sit in the garden (office).</p>\n<p>So, I need a powerful desktop running Linux to complement the tiny portable one.</p>\n<p>I&rsquo;d love to order something from <a href=\"http://tuxedocomputers.com/\">tuxedo computers</a> – <a href=\"https://www.geewiz.dev/2022/01/04/new-year-new.html\">Jochen</a> has one from them, and seems to be very happy about it – but their online store has been down for days now.</p>\n<p>Even building my desktop isn’t out of the question either. I have done this a lot and always enjoyed it. I already have done some research and need to put the parts together, but I’m not fully decided yet.</p>\n<p>But I will decide soon.</p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>Is it so hard to remember background images with multiple displays?&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\" role=\"doc-endnote\">\n<p>Not as nice as my 2010 11“ Macbook Air, but a great machine nonetheless.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "It's decided that I will use a Linux desktop as my primary work driver. I won't be leaving the Apple ecosystem for very different reasons, but I need to find ways to integrate all the other OSes now.\r\n\r\nI'll try to write about that journey a bit, and I'm going to start with my hardware choices.\r\n\r\nI have fond memories of my 11\" Macbook Air, which was just the best computer I ever used. The form factor was made for me as a mobile computer, and with its i7, it was powerful for everything I needed.  \r\nSo in autumn of last year, I wanted to try Linux again, which is why I have ordered a [Starlite Mk IV 11-inch laptop](https://de.starlabs.systems/products/starlite). This is supposed to be the mobile workstation I can throw in the bag.  \r\nI have been waiting for months now because of Covid related delays. \r\n\r\nBut for real work™, I need something more powerful, and I want it soon. I'm getting more annoyed with bugs[^1], and the stopgaps I'm confronted with because of Apple's switch to the ARM processor architecture are worse than I expected when getting the machine. Because of it, I can't use my development workflows directly on my Macbook Air[^2] but need to work remotely on Linux machines. This is ok since I work 95% in a shell and with neovim, but not all the time and exceptionally not well when I want to sit in the garden (office).  \r\n\r\nSo, I need a powerful desktop running Linux to complement the tiny portable one.\r\n\r\nI'd love to order something from [tuxedo computers](http://tuxedocomputers.com/) – [Jochen](https://www.geewiz.dev/2022/01/04/new-year-new.html) has one from them, and seems to be very happy about it – but their online store has been down for days now. \r\n\r\nEven building my desktop isn’t out of the question either. I have done this a lot and always enjoyed it. I already have done some research and need to put the parts together, but I’m not fully decided yet.\r\n\r\nBut I will decide soon.\r\n \r\n\r\n[^1]: Is it so hard to remember background images with multiple displays? \r\n[^2]: Not as nice as my 2010 11“ Macbook Air, but a great machine nonetheless.\n",
+				"date_published": "2022-05-04T11:06:34+02:00",
+				"url": "https://www.byzero.de/2022/05/04/its-the-year.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/05/03/experimental-city-planning.html",
+				
+				"content_html": "<p>Experimental city planning.</p>\n<p>Na, just a broken panorama shot looking somehow like a waterfall 📷 📱</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Experimental city planning.\n\nNa, just a broken panorama shot looking somehow like a waterfall 📷 📱\n\n<img src=\"uploads/2022/3b6f900430.jpg\" width=\"557\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-03T17:34:00+02:00",
+				"url": "https://www.byzero.de/2022/05/03/experimental-city-planning.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/05/02/my-daughter-took.html",
+				
+				"content_html": "<p>My daughter took this photo of me taking a photo of them under a blooming bush. 📷 #mbmay</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My daughter took this photo of me taking a photo of them under a blooming bush. 📷 #mbmay\n\n<img src=\"uploads/2022/54e3e325c8.jpg\" width=\"591\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-05-02T21:08:27+02:00",
+				"url": "https://www.byzero.de/2022/05/02/my-daughter-took.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/05/01/this-single-switch.html",
+				
+				"content_html": "<p>This single switch is one of many I’m going to work with hopefully soon. 📷 #mbmay</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This single switch is one of many I’m going to work with hopefully soon. 📷 #mbmay\n\n<img src=\"uploads/2022/a9dbd88bcc.jpg\" width=\"600\" height=\"600\" alt=\"Photo of a transparent acrylic keyboard switch\" />\n",
+				"date_published": "2022-05-01T18:15:00+02:00",
+				"url": "https://www.byzero.de/2022/05/01/this-single-switch.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2022/05/01/its-photo-challenge.html",
 				
-				"content_html": "<p>It&rsquo;s photo challenge time on micro.blog. I&rsquo;m going to post a photo every day in May 2022 matching a new prompt.</p>\n<p>The last time I did this I had a lot of fun, and I&rsquo;m going to do this again.</p>\n<p>So let&rsquo;s see where I can find a &ldquo;switch&rdquo; tomorrow when we are going out on May 1st hikes.</p>\n",
-				"content_text": "It's photo challenge time on micro.blog. I'm going to post a photo every day in May 2022 matching a new prompt.\r\n\r\nThe last time I did this I had a lot of fun, and I'm going to do this again.\r\n\r\nSo let's see where I can find a \"switch\" tomorrow when we are going out on May 1st hikes.\n",
-				"date_published": "2022-05-01T00:34:53+02:00",
+				"content_html": "<p>It&rsquo;s <a href=\"https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html\">photo challenge time on micro.blog</a>. I&rsquo;m going to post a photo every day in May 2022 matching a new prompt.</p>\n<p>The last time I did this I had a lot of fun, and I&rsquo;m going to do this again.</p>\n<p>So let&rsquo;s see where I can find a &ldquo;<a href=\"https://challenges.micro.blog/2022/04/30/week-prompts-day.html\">switch</a>&rdquo; tomorrow when we are going out on May 1st hikes.</p>\n",
+				"content_text": "It's [photo challenge time on micro.blog](https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html). I'm going to post a photo every day in May 2022 matching a new prompt.\n\nThe last time I did this I had a lot of fun, and I'm going to do this again.\n\nSo let's see where I can find a \"[switch](https://challenges.micro.blog/2022/04/30/week-prompts-day.html)\" tomorrow when we are going out on May 1st hikes.\n",
+				"date_published": "2022-05-01T00:34:00+02:00",
 				"url": "https://www.byzero.de/2022/05/01/its-photo-challenge.html"
 			},
 			{
@@ -34,7 +98,7 @@
 				"id": "http://muhh.micro.blog/2022/04/22/black-dog.html",
 				
 				"content_html": "<p>Black dog</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Black dog\n\n<img src=\"uploads/2022/76ae30a74b.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "Black dog\n\n<img src=\"https://www.byzero.de/uploads/2022/76ae30a74b.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-04-22T20:39:04+02:00",
 				"url": "https://www.byzero.de/2022/04/22/black-dog.html"
 			},
@@ -66,7 +130,7 @@
 				"id": "http://muhh.micro.blog/2022/04/14/141216.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/5aa29ec75b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://www.byzero.de/uploads/2022/5aa29ec75b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-04-14T14:12:16+02:00",
 				"url": "https://www.byzero.de/2022/04/14/141216.html"
 			},
