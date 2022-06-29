@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2022/06/23/a-little-break.html",
+				
+				"content_html": "<p>A little break in shadow before the sun dominates the day</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A little break in shadow before the sun dominates the day \n\n<img src=\"uploads/2022/ed51391dfe.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-06-23T08:46:23+02:00",
+				"url": "https://www.byzero.de/2022/06/23/a-little-break.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/06/22/links-and-webrings.html",
+				
+				"content_html": "<p>💫 <a href=\"https://manuelmoreale.com/thoughts/links-and-webrings\">Links and webrings – Manu</a></p>\n<blockquote>\n<p>start sharing content you like and more specifically start linking to sites and content you find interesting. That&rsquo;s what the internet was made for after all.</p>\n</blockquote>\n<p>LINK!</p>\n",
+				"content_text": "💫 [Links and webrings – Manu](https://manuelmoreale.com/thoughts/links-and-webrings)\n\n> start sharing content you like and more specifically start linking to sites and content you find interesting. That's what the internet was made for after all.\n\nLINK!\n",
+				"date_published": "2022-06-22T12:22:31+02:00",
+				"url": "https://www.byzero.de/2022/06/22/links-and-webrings.html",
+				"tags": ["bookmarks"]
+			},
+			{
 				"id": "http://muhh.micro.blog/2022/06/13/ready-for-a.html",
 				
 				"content_html": "<p>Ready for a lunch date in the green</p>\n<!-- raw HTML omitted -->\n",
@@ -173,7 +190,8 @@
 				"content_html": "<p>💫 <a href=\"https://skysedge.com/unsmartphones/RUSP/index.html\">Rotary Un-Smartphone</a></p>\n<blockquote>\n<p>Rotary Un-Smartphone™ Kit\nA cellphone. You know&hellip; for making CALLS.</p>\n</blockquote>\n<p>I’m so close to pre-ordering this. I’m searching for reasons. Although I’m 💯 sure I would never let anyone see me using it.</p>\n<p>Maybe as a landline replacement then? 🧐</p>\n",
 				"content_text": "💫 [Rotary Un-Smartphone](https://skysedge.com/unsmartphones/RUSP/index.html)\n\n> Rotary Un-Smartphone™ Kit\nA cellphone. You know... for making CALLS.\n\nI’m so close to pre-ordering this. I’m searching for reasons. Although I’m 💯 sure I would never let anyone see me using it. \n\nMaybe as a landline replacement then? 🧐\n",
 				"date_published": "2022-04-28T21:49:48+02:00",
-				"url": "https://www.byzero.de/2022/04/28/rotary-unsmartphone-rotary.html"
+				"url": "https://www.byzero.de/2022/04/28/rotary-unsmartphone-rotary.html",
+				"tags": ["bookmarks"]
 			},
 			{
 				"id": "http://muhh.micro.blog/2022/04/28/i-really-enjoy.html",
@@ -213,7 +231,8 @@
 				"content_html": "<p>💫 <a href=\"https://wuerzblog.de/2022/04/15/zwei-jahre-und-drei-tage-das-blog-und-ich-im-fediverse/\">Zwei Jahre und drei Tage: Das Blog und ich im Fediverse - Würzblog</a></p>\n",
 				"content_text": "💫 [Zwei Jahre und drei Tage: Das Blog und ich im Fediverse - Würzblog](https://wuerzblog.de/2022/04/15/zwei-jahre-und-drei-tage-das-blog-und-ich-im-fediverse/)\n",
 				"date_published": "2022-04-15T19:58:00+02:00",
-				"url": "https://www.byzero.de/2022/04/15/zwei-jahre-und.html"
+				"url": "https://www.byzero.de/2022/04/15/zwei-jahre-und.html",
+				"tags": ["bookmarks"]
 			},
 			{
 				"id": "http://muhh.micro.blog/2022/04/14/141216.html",
