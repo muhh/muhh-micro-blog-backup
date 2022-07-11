@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2022/07/11/ive-started-doing.html",
+				
+				"content_html": "<p>I&rsquo;ve started doing a livestream again right now. I&rsquo;m <a href=\"https://www.twitch.tv/division_byzero\">division_byzero on twitch</a> and will starting with coworking, chatting and answering questions if you want to.</p>\n<p>Come keep me company 👋</p>\n<p>(I might be talking in german, but switching to englisch can happen anytime)</p>\n",
+				"content_text": "I've started doing a livestream again right now. I'm [division_byzero on twitch]( https://www.twitch.tv/division_byzero) and will starting with coworking, chatting and answering questions if you want to.\r\n\r\nCome keep me company 👋\r\n\r\n(I might be talking in german, but switching to englisch can happen anytime)\n",
+				"date_published": "2022-07-11T10:58:59+02:00",
+				"url": "https://www.byzero.de/2022/07/11/ive-started-doing.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/07/04/brgerworkshop-radwegekonzept-morgen.html",
+				"title": "Bürgerworkshop Radwegekonzept morgen abend in Hammelburg",
+				"content_html": "<p>Lange hab ich nicht zu Fahrradthemen in Hammelburg geschrieben. Viel wird es heute auch nicht werden. Ich möchte aber nichts ungenutzt lassen, um auf einen Termin morgen Abend hinzuweisen.</p>\n<p>Das Planungsbüro, das das Radwegekonzept für die Gemeinde Hammelburg entwickelt, führt <a href=\"https://www.hammelburg.de/communice-news/news/artikel/radwegekonzept-hammelburg-223\">morgen abend in der Aula der Grundschule einen Bürgerworkshop</a> dazu durch.</p>\n<p>Stattfinden wird das ab 19 Uhr in der Aula der Grundschule Hammelburg.</p>\n<p>Momentan ist vorgesehen, dass es nur diesen einen Workshop geben wird. Wir sind aber der Überzeugung, dass mindestens ein zweiter Workshop mit Bürgerbeteiligung notwendig ist, damit ernsthaft gute Konzepte entwickelt werden können. Von der Stadt haben wir die Zusage, dass ein zweiter Termin stattfinden kann, &ldquo;wenn der Bedarf besteht&rdquo;.</p>\n<p>Und deshalb bitte ich euch morgen abend zahlreich zu kommen und euren Input einzubringen. Zeigt, dass der Bedarf da ist für ein Hammelburg, in dem wir angstfrei und ohne Umwege gut Fahrrad fahren können.</p>\n<p>Ich freue mich darauf viele von euch morgen zu sehen!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Lange hab ich nicht zu Fahrradthemen in Hammelburg geschrieben. Viel wird es heute auch nicht werden. Ich möchte aber nichts ungenutzt lassen, um auf einen Termin morgen Abend hinzuweisen.\n\nDas Planungsbüro, das das Radwegekonzept für die Gemeinde Hammelburg entwickelt, führt [morgen abend in der Aula der Grundschule einen Bürgerworkshop](https://www.hammelburg.de/communice-news/news/artikel/radwegekonzept-hammelburg-223) dazu durch. \n\nStattfinden wird das ab 19 Uhr in der Aula der Grundschule Hammelburg.\n\nMomentan ist vorgesehen, dass es nur diesen einen Workshop geben wird. Wir sind aber der Überzeugung, dass mindestens ein zweiter Workshop mit Bürgerbeteiligung notwendig ist, damit ernsthaft gute Konzepte entwickelt werden können. Von der Stadt haben wir die Zusage, dass ein zweiter Termin stattfinden kann, \"wenn der Bedarf besteht\".\n\nUnd deshalb bitte ich euch morgen abend zahlreich zu kommen und euren Input einzubringen. Zeigt, dass der Bedarf da ist für ein Hammelburg, in dem wir angstfrei und ohne Umwege gut Fahrrad fahren können.\n\nIch freue mich darauf viele von euch morgen zu sehen!\n\n<img src=\"uploads/2022/db428c6061.jpg\" width=\"600\" height=\"600\" alt=\"Werbeplakat der Stadt Hammelburg zum Bürgerworkshop Radwegekonzept für Stadt und Ortsteile Hammelburg. Dienstag, 5. Juli 2022, 19 Uhr, Grundschule am Mönchsturm. Kommt vorbei & macht mit!\" />\n",
+				"date_published": "2022-07-04T16:32:59+02:00",
+				"url": "https://www.byzero.de/2022/07/04/brgerworkshop-radwegekonzept-morgen.html",
+				"tags": ["hammelburg"]
+			},
+			{
 				"id": "http://muhh.micro.blog/2022/06/23/a-little-break.html",
 				
 				"content_html": "<p>A little break in shadow before the sun dominates the day</p>\n<!-- raw HTML omitted -->\n",
