@@ -7,10 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2022/10/16/all-the-ways.html",
+				
+				"content_html": "<p>All the ways</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "All the ways\n\n<img src=\"uploads/2022/7d459a059a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-16T01:41:23+02:00",
+				"url": "https://www.byzero.de/2022/10/16/all-the-ways.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/10/14/taking-a-little.html",
+				
+				"content_html": "<p>Taking a little break during &ldquo;<a href=\"https://micro.welltempered.net/2022/10/11/a-day-in.html\">Day in the Life of Micro.blog Photo Challenge for 2022</a>&rdquo; - 14:40 CEST on October 14, 2022 in Hammelburg, Germany</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Taking a little break during \"[Day in the Life of Micro.blog Photo Challenge for 2022](https://micro.welltempered.net/2022/10/11/a-day-in.html)\" - 14:40 CEST on October 14, 2022 in Hammelburg, Germany\n\n<img src=\"uploads/2022/1e525c16b6.jpg\" width=\"600\" height=\"538\" alt=\"\">\n",
+				"date_published": "2022-10-14T14:44:14+02:00",
+				"url": "https://www.byzero.de/2022/10/14/taking-a-little.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/10/14/trying-not-to.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>😖 Trying not to complain too much about the post-vacc sore arm. </p>\n\t\t\t</div>\n",
+				"date_published": "2022-10-14T10:36:53+02:00",
+				"url": "https://www.byzero.de/2022/10/14/trying-not-to.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/10/13/144821.html",
+				
+				"content_html": "<p>💉💉💉🦠💉</p>\n",
+				"content_text": "💉💉💉🦠💉\n",
+				"date_published": "2022-10-13T14:48:21+02:00",
+				"url": "https://www.byzero.de/2022/10/13/144821.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/10/13/doing-that-coworking.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🧑‍💼 Doing that coworking on a livestream thingy</p>\n\t\t\t</div>\n",
+				"date_published": "2022-10-13T10:22:43+02:00",
+				"url": "https://www.byzero.de/2022/10/13/doing-that-coworking.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/10/11/setting-up-owncast.html",
+				
+				"content_html": "<p>📺 Setting up owncast for my <a href=\"https://live.byzero.de\">livestream</a>. Fun!</p>\n",
+				"content_text": "📺 Setting up owncast for my [livestream](https://live.byzero.de). Fun!\n",
+				"date_published": "2022-10-11T14:45:22+02:00",
+				"url": "https://www.byzero.de/2022/10/11/setting-up-owncast.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2022/10/10/so-i-wrote.html",
 				
-				"content_html": "<p>So I wrote the [first edition of a newsletter for our local association of the green party]<a href=\"https://www.gruene-hammelburg.de/2022/10/10/erster-newsletter-der-gruenen-in-hammelburg/\">www.gruene-hammelburg.de/2022/10/1&hellip;</a>) and what did happen?</p>\n<p>A typo.</p>\n<p>In the subject.</p>\n",
-				"content_text": "So I wrote the [first edition of a newsletter for our local association of the green party][www.gruene-hammelburg.de/2022/10/1...](https://www.gruene-hammelburg.de/2022/10/10/erster-newsletter-der-gruenen-in-hammelburg/)) and what did happen?\r\n\r\nA typo.\r\n\r\nIn the subject.\n",
+				"content_html": "<p>So I wrote the <a href=\"https://www.gruene-hammelburg.de/2022/10/10/erster-newsletter-der-gruenen-in-hammelburg/\">first edition of a newsletter for our local association of the green party</a> and what did happen?</p>\n<p>A typo.</p>\n<p>In the subject.</p>\n",
+				"content_text": "So I wrote the [first edition of a newsletter for our local association of the green party](https://www.gruene-hammelburg.de/2022/10/10/erster-newsletter-der-gruenen-in-hammelburg/) and what did happen?\n\nA typo.\n\nIn the subject.\n",
 				"date_published": "2022-10-10T21:28:39+02:00",
 				"url": "https://www.byzero.de/2022/10/10/so-i-wrote.html"
 			},
@@ -66,7 +114,7 @@
 				"id": "http://muhh.micro.blog/2022/10/06/a-walk-with.html",
 				"title": "A walk with the dog",
 				"content_html": "<p>Through the wineyards in my extended garden.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Together with my lovely dog.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>There even where some late bloomers.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>And a chance to do some street photography 🤓</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Through the wineyards in my extended garden.\n\n<a href=\"https://www.byzero.de/uploads/2022/a9db7e05e7.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/a9db7e05e7.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2022/731964b3c4.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/731964b3c4.jpg\" width=\"600\" height=\"898\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2022/c7abb3d2a9.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/c7abb3d2a9.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nTogether with my lovely dog.\n\n<a href=\"https://www.byzero.de/uploads/2022/d3227d7faf.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/d3227d7faf.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2022/8d4cfc9f6d.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/8d4cfc9f6d.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2022/3b077cbf72.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/3b077cbf72.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2022/013582dff8.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/013582dff8.jpg\" width=\"600\" height=\"898\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nThere even where some late bloomers.\n\n<a href=\"https://www.byzero.de/uploads/2022/ca9833483c.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/ca9833483c.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2022/0134c3b85a.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/0134c3b85a.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2022/b77c22f621.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/b77c22f621.jpg\" width=\"600\" height=\"898\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2022/490c2e271a.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/490c2e271a.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nAnd a chance to do some street photography 🤓\n\n<img src=\"uploads/2022/fcb724dc55.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_text": "Through the wineyards in my extended garden.\n\n<a href=\"https://www.byzero.de/uploads/2022/a9db7e05e7.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/a9db7e05e7.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2022/731964b3c4.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/731964b3c4.jpg\" width=\"600\" height=\"898\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2022/c7abb3d2a9.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/c7abb3d2a9.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nTogether with my lovely dog.\n\n<a href=\"https://www.byzero.de/uploads/2022/d3227d7faf.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/d3227d7faf.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2022/8d4cfc9f6d.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/8d4cfc9f6d.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2022/3b077cbf72.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/3b077cbf72.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2022/013582dff8.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/013582dff8.jpg\" width=\"600\" height=\"898\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nThere even where some late bloomers.\n\n<a href=\"https://www.byzero.de/uploads/2022/ca9833483c.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/ca9833483c.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2022/0134c3b85a.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/0134c3b85a.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2022/b77c22f621.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/b77c22f621.jpg\" width=\"600\" height=\"898\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://www.byzero.de/uploads/2022/490c2e271a.jpg\"><img src=\"https://micro.blog/photos/200/https://www.byzero.de/uploads/2022/490c2e271a.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\nAnd a chance to do some street photography 🤓\n\n<img src=\"https://www.byzero.de/uploads/2022/fcb724dc55.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2022-10-06T21:24:05+02:00",
 				"url": "https://www.byzero.de/2022/10/06/a-walk-with.html"
 			},
@@ -146,7 +194,7 @@
 				"id": "http://muhh.micro.blog/2022/09/25/best-place-during.html",
 				
 				"content_html": "<p>best place during the best season</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "best place during the best season\n\n<img src=\"uploads/2022/3cbee07286.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "best place during the best season\n\n<img src=\"https://www.byzero.de/uploads/2022/3cbee07286.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-25T18:00:42+02:00",
 				"url": "https://www.byzero.de/2022/09/25/best-place-during.html"
 			},
