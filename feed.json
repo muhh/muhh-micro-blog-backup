@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2022/10/21/reconfiguring-another-domain.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>☎ reconfiguring another domain for some nice omg.lol thing. </p>\n\t\t\t</div>\n",
+				"date_published": "2022-10-21T10:59:40+02:00",
+				"url": "https://www.byzero.de/2022/10/21/reconfiguring-another-domain.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/10/20/arc-is-really.html",
+				
+				"content_html": "<p><a href=\"https://arc.net/\">arc</a> is really growing on me.</p>\n<p>I&rsquo;m really missing it on Linux. <a href=\"https://www.qutebrowser.org/\">qutebrowser</a> is there for me.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[arc](https://arc.net/) is really growing on me. \r\n\r\nI'm really missing it on Linux. [qutebrowser](https://www.qutebrowser.org/) is there for me.\r\n\r\n\n\n<img src=\"uploads/2022/235096e3e7.png\" width=\"465\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-10-20T22:29:51+02:00",
+				"url": "https://www.byzero.de/2022/10/20/arc-is-really.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/10/20/create-link-relme.html",
+				"title": "Create link rel-me tags on micro.blog",
+				"content_html": "<p><a href=\"https://www.manton.org\">Manton</a> published a <a href=\"https://www.manton.org/2022/10/16/i-created-a.html\">meta tags plugin for micro.blog</a> the other day. It allows you to insert <code>&lt;meta&gt;</code> tags in your HTML output any micro.blog without fiddling around in custom themes. (Which I really want to do soon, but still.)</p>\n<p>Looking at the <a href=\"https://github.com/microdotblog/plugin-metatags\">docs for it</a> I noticed that it allows to place arbitray HTML into the <code>&lt;head&gt;</code> section, not only <code>meta</code>!<br>\nSince I wanted to properly link all my new sites and domains to verify that they belong to me (and allow for <a href=\"https://indieauth.com/\">IndieAuth</a>) I tried to use this to insert the appropriate links into my blog.</p>\n<p>To set this up, you can either add <code>&lt;a href=&quot;...&quot; /&gt;</code> into the footer or someplace else. This clutters up the site though which I wanted to to use <code>&lt;link rel=&quot;me&quot; href=&quot;...&quot; /&gt;</code> instead.</p>\n<p>And volia, it worked instantly.</p>\n<!-- raw HTML omitted -->\n<p>I added <a href=\"https://muhh.paste.lol/my-link-rel-mes-on-micro.blog\">all the relevant links</a> into the plain form using the syntax <code>&lt;link rel=&quot;me&quot; href=&quot;$LINK&quot; /&gt;</code>, adapted <a href=\"https://social.lol/@muhh\">my profile on social.lol</a> and now omg.muhh.lol is a verified link over there.</p>\n<p>The hardest part was to remove the old links to github, twitter and instagram which showed up and didn&rsquo;t know where to turn them off. They are deeply hidden in <a href=\"https://micro.blog/account/apps\">account - apps settings below the the app tokens</a> . I couldn&rsquo;t find it myself, but had to search for it, resulting in <a href=\"https://help.micro.blog/t/rel-me-links-are-wrong/697\">a post in the help forums</a>.</p>\n<p>Now I can define all the links I want to use, especially these fine new ones under <a href=\"https://muhh.lol\">muhh.lol</a> , that I use to map to the even finer <a href=\"https://omg.lol\">omg.lol</a> services I enjoy to use.</p>\n",
+				"content_text": "[Manton](https://www.manton.org) published a [meta tags plugin for micro.blog](https://www.manton.org/2022/10/16/i-created-a.html) the other day. It allows you to insert `<meta>` tags in your HTML output any micro.blog without fiddling around in custom themes. (Which I really want to do soon, but still.)\n\nLooking at the [docs for it](https://github.com/microdotblog/plugin-metatags) I noticed that it allows to place arbitray HTML into the `<head>` section, not only `meta`!   \nSince I wanted to properly link all my new sites and domains to verify that they belong to me (and allow for [IndieAuth](https://indieauth.com/)) I tried to use this to insert the appropriate links into my blog.  \n\nTo set this up, you can either add `<a href=\"...\" />` into the footer or someplace else. This clutters up the site though which I wanted to to use `<link rel=\"me\" href=\"...\" />` instead.\n\nAnd volia, it worked instantly.\n\n<img src=\"uploads/2022/14dc3135f9.png\" width=\"600\" height=\"533\" alt=\"screenshot of the settings on micro.blog\" />\n\nI added [all the relevant links](https://muhh.paste.lol/my-link-rel-mes-on-micro.blog) into the plain form using the syntax `<link rel=\"me\" href=\"$LINK\" />`, adapted [my profile on social.lol](https://social.lol/@muhh) and now omg.muhh.lol is a verified link over there.\n\nThe hardest part was to remove the old links to github, twitter and instagram which showed up and didn't know where to turn them off. They are deeply hidden in [account - apps settings below the the app tokens](https://micro.blog/account/apps) . I couldn't find it myself, but had to search for it, resulting in [a post in the help forums](https://help.micro.blog/t/rel-me-links-are-wrong/697). \n\nNow I can define all the links I want to use, especially these fine new ones under [muhh.lol](https://muhh.lol) , that I use to map to the even finer [omg.lol](https://omg.lol) services I enjoy to use.\n",
+				"date_published": "2022-10-20T11:25:43+02:00",
+				"url": "https://www.byzero.de/2022/10/20/create-link-relme.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/10/17/finally-back-into.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>⌨ Finally back into some chef cookbook development. Has been too long again.</p>\n\t\t\t</div>\n",
+				"date_published": "2022-10-17T13:59:20+02:00",
+				"url": "https://www.byzero.de/2022/10/17/finally-back-into.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/10/17/laundry-and-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🧺 laundry and the walking dead during lunch break.</p>\n\t\t\t</div>\n",
+				"date_published": "2022-10-17T13:22:33+02:00",
+				"url": "https://www.byzero.de/2022/10/17/laundry-and-the.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/10/17/my-product-is.html",
+				
+				"content_html": "<p><a href=\"https://herman.bearblog.dev/my-product-is-my-garden/\">My product is my garden | ᕕ( ᐛ )ᕗ Herman&rsquo;s blog</a></p>\n<blockquote>\n<p>That’s what I want from my products. I want to putter about, feel connected to the process, and have fun doing so. I want to make things that don’t scale. To see people tuck into them and enjoy them as people, not as stats. […] Something niche but valuable. Something I can spend time on because I want to.<br>\nBeing able to talk to, and interact with the people using my tools is fulfilling. Spending time meticulously improving subtle aspects of the product is enjoyable.</p>\n</blockquote>\n<p>My kinda guy.</p>\n",
+				"content_text": "[My product is my garden | ᕕ( ᐛ )ᕗ Herman's blog](https://herman.bearblog.dev/my-product-is-my-garden/)\n\n> That’s what I want from my products. I want to putter about, feel connected to the process, and have fun doing so. I want to make things that don’t scale. To see people tuck into them and enjoy them as people, not as stats. […] Something niche but valuable. Something I can spend time on because I want to.  \n> Being able to talk to, and interact with the people using my tools is fulfilling. Spending time meticulously improving subtle aspects of the product is enjoyable.\n\nMy kinda guy. \n",
+				"date_published": "2022-10-17T08:24:28+02:00",
+				"url": "https://www.byzero.de/2022/10/17/my-product-is.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2022/10/16/all-the-ways.html",
 				
 				"content_html": "<p>All the ways</p>\n<!-- raw HTML omitted -->\n",
@@ -18,7 +66,7 @@
 				"id": "http://muhh.micro.blog/2022/10/14/taking-a-little.html",
 				
 				"content_html": "<p>Taking a little break during &ldquo;<a href=\"https://micro.welltempered.net/2022/10/11/a-day-in.html\">Day in the Life of Micro.blog Photo Challenge for 2022</a>&rdquo; - 14:40 CEST on October 14, 2022 in Hammelburg, Germany</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Taking a little break during \"[Day in the Life of Micro.blog Photo Challenge for 2022](https://micro.welltempered.net/2022/10/11/a-day-in.html)\" - 14:40 CEST on October 14, 2022 in Hammelburg, Germany\n\n<img src=\"uploads/2022/1e525c16b6.jpg\" width=\"600\" height=\"538\" alt=\"\">\n",
+				"content_text": "Taking a little break during \"[Day in the Life of Micro.blog Photo Challenge for 2022](https://micro.welltempered.net/2022/10/11/a-day-in.html)\" - 14:40 CEST on October 14, 2022 in Hammelburg, Germany\n\n<img src=\"https://www.byzero.de/uploads/2022/1e525c16b6.jpg\" width=\"600\" height=\"538\" alt=\"\">\n",
 				"date_published": "2022-10-14T14:44:14+02:00",
 				"url": "https://www.byzero.de/2022/10/14/taking-a-little.html"
 			},
