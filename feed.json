@@ -1,11 +1,35 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "0/",
+	"title": "/0",
 	"icon": "https://micro.blog/muhh/avatar.jpg",
 	"home_page_url": "https://www.byzero.de/",
 	"feed_url": "https://www.byzero.de/feed.json",
 	"items": [
 		
+			{
+				"id": "http://muhh.micro.blog/2022/11/13/we-went-to.html",
+				
+				"content_html": "<p>We went to a little wildlife park yesterday</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "We went to a little wildlife park yesterday \n\n<img src=\"uploads/2022/0e467effa7.jpg\" width=\"600\" height=\"400\" alt=\"A herd of elks, chilling\"><img src=\"uploads/2022/85fdc4c0c1.jpg\" width=\"600\" height=\"400\" alt=\"Lynx behind bars\"><img src=\"uploads/2022/2035152b00.jpg\" width=\"600\" height=\"400\" alt=\"Sleeping owl\"><img src=\"uploads/2022/59db1b5559.jpg\" width=\"600\" height=\"400\" alt=\"Small kid in a pile of autumn leaves\"><img src=\"uploads/2022/d784fc0600.jpg\" width=\"600\" height=\"400\" alt=\"Pigs\">\n",
+				"date_published": "2022-11-13T14:41:13+01:00",
+				"url": "https://www.byzero.de/2022/11/13/we-went-to.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/11/10/spare-amd-m.html",
+				"title": "spare AMD M4 3xxx/4xxx CPU anyone?",
+				"content_html": "<p>If you watched <a href=\"https://live.byzero.de\">my livestream</a> yesterday or today, you might have seen me building my new desktop PC.\nA very nice one without fans, without any moving parts actually.</p>\n<p>I wanted a quite simple one, no need for a dedicated graphics card, so I went with an AMD CPU with integrated GPU. A compatible board is the Asrock Phantom thing with B550 chipset.</p>\n<p>Thing is, only a mildly current BIOS supports these CPUs with integrated graphics chip. And the one I bought has an old BIOS revision. Of course.</p>\n<p>So, does anyone of you - best from Germany/EU to avoid anything with customs -  have an AMD CPU M4 socket, like 3xxx or 4xxx, at hand to borrow or sell it to me? Just needs to be on the <a href=\"https://www.asrock.com/MB/AMD/B550%20Phantom%20Gaming%204/index.asp#CPU\">supported CPU list</a> where &ldquo;Validated BIOS&rdquo; is either <code>P1.20</code> or <code>All</code>.</p>\n<p>I&rsquo;m already looking at ebay-kleinanzeigen.de…</p>\n",
+				"content_text": "If you watched [my livestream](https://live.byzero.de) yesterday or today, you might have seen me building my new desktop PC.\r\nA very nice one without fans, without any moving parts actually.\r\n\r\nI wanted a quite simple one, no need for a dedicated graphics card, so I went with an AMD CPU with integrated GPU. A compatible board is the Asrock Phantom thing with B550 chipset.\r\n\r\nThing is, only a mildly current BIOS supports these CPUs with integrated graphics chip. And the one I bought has an old BIOS revision. Of course.\r\n\r\nSo, does anyone of you - best from Germany/EU to avoid anything with customs -  have an AMD CPU M4 socket, like 3xxx or 4xxx, at hand to borrow or sell it to me? Just needs to be on the [supported CPU list](https://www.asrock.com/MB/AMD/B550%20Phantom%20Gaming%204/index.asp#CPU) where \"Validated BIOS\" is either `P1.20` or `All`.\r\n\r\nI'm already looking at ebay-kleinanzeigen.de…\n",
+				"date_published": "2022-11-10T14:13:15+01:00",
+				"url": "https://www.byzero.de/2022/11/10/spare-amd-m.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/11/07/im-having-way.html",
+				
+				"content_html": "<p>I&rsquo;m having way too much fun procrastinating on micro.blog and social.lol right now.</p>\n<p>This has to stop now. I need to get some copyediting done and work some more.</p>\n<p>I probably should setup a coworking livestream.</p>\n",
+				"content_text": "I'm having way too much fun procrastinating on micro.blog and social.lol right now. \r\n\r\nThis has to stop now. I need to get some copyediting done and work some more.\r\n\r\nI probably should setup a coworking livestream.\n",
+				"date_published": "2022-11-07T11:53:52+01:00",
+				"url": "https://www.byzero.de/2022/11/07/im-having-way.html"
+			},
 			{
 				"id": "http://muhh.micro.blog/2022/11/07/livehackr-das-einhorn.html",
 				
