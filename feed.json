@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2022/12/06/not-sleeping-but.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>😵 Not sleeping, but playing around with very focused app: status.log to update status.muhh.lol</p>\n\t\t\t</div>\n",
+				"date_published": "2022-12-06T00:54:21+01:00",
+				"url": "https://www.byzero.de/2022/12/06/not-sleeping-but.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2022/12/05/good-coffee-good.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>☕️ good coffee, good morning.</p>\n\t\t\t</div>\n",
+				"date_published": "2022-12-05T07:52:49+01:00",
+				"url": "https://www.byzero.de/2022/12/05/good-coffee-good.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2022/11/26/this-is-the.html",
 				
 				"content_html": "<p>This is the last post to be crossposted to twitter.\nYou can find all the things to stay in contact on <a href=\"https://omg.muhh.lol\">omg.muhh.lol</a>.</p>\n<p>The main place is and will be the blog <a href=\"https://byzero.de\">byzero.de</a>. Just put <a href=\"https://micro.blog/muhh?remote_follow=1\">@muhh@byzero.de</a> into your mastodon thing.</p>\n<p>Thanks for all the fish! Take care.</p>\n",
