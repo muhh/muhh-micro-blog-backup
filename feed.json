@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2023/01/18/glorious-weather-for.html",
+				
+				"content_html": "<p>Glorious weather for a fun run!</p>\n<p><img src=\"https://www.byzero.de/uploads/2023/593f5ec53b.jpg\" alt=\"beautiful snowy scenery with a happy black dog\"></p>\n",
+				"content_text": "Glorious weather for a fun run!\n\n![beautiful snowy scenery with a happy black dog](https://www.byzero.de/uploads/2023/593f5ec53b.jpg)\n",
+				"date_published": "2023-01-18T11:49:42+01:00",
+				"url": "https://www.byzero.de/2023/01/18/glorious-weather-for.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2023/01/18/yo.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🟪 Yo!</p>\n",
+				"date_published": "2023-01-18T08:43:58+01:00",
+				"url": "https://www.byzero.de/2023/01/18/yo.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2023/01/17/riding-the-bike.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>😊 Riding the bike to kindergarten and back on the most scenic detour because the valley is flooded is THE BEST</p>\n",
+				"date_published": "2023-01-17T10:00:03+01:00",
+				"url": "https://www.byzero.de/2023/01/17/riding-the-bike.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2023/01/15/week-a-tight.html",
+				"title": " Week 2: a tight fit",
+				"content_html": "<ul>\n<li>We are in the middle of our birthday season. Monday and Thursday were two of them. Lots of family, cake, coffee, great food. Tiring, but I&rsquo;m still happy to be around such nice folks.</li>\n<li>Work started again on Tuesday. Getting sorted and doing a deep dive into database performance analysis took the most time.</li>\n<li>WordPress might be nice to use for some, but you really, REALLY need to know what you&rsquo;re doing. Otherwise one quite popular site that&rsquo;s behind a CDN might get close to kill a really big database server. 🙄</li>\n<li>We have a big freezer in the cellar now. I measured before ordering so I could be sure it fit through the tight cellar door. After taking off the hinges it fit. And I got lucky that the steep stairs weren&rsquo;t a cm narrower.</li>\n<li>2023 feels really good so far.</li>\n<li>I definitely feel changed since just a couple weeks ago. Didn&rsquo;t start with the new year but earlier. So lucky.</li>\n<li>Running was painful this week.</li>\n<li>These weeknotes are still fun. I had to remind myself through the week to just jot some notes down. And taking out a few to put to my private notes. And it most certainly helps that quite a lot are <a href=\"https://maique.eu/2023/01/15/thingsthisweek.html\">posting</a> <a href=\"https://assbach.de/blog/wochenrueckblick-kw02-2023\">theirs</a> <a href=\"https://bln41.win/blog/wochenrueckblick-kw-02-2023\">early</a> <a href=\"https://maurice-renck.de/de/blog/2023/kw-2\">on</a> <a href=\"https://lostfocus.de/2023/01/15/week-2-2023/\">Sunday</a>.</li>\n<li>I haven&rsquo;t used my camera in two weeks. It&rsquo;s something about the greyness outside. Maybe I should try some walks with a black&amp;white film silmulation pre set.</li>\n</ul>\n",
+				"content_text": "\n- We are in the middle of our birthday season. Monday and Thursday were two of them. Lots of family, cake, coffee, great food. Tiring, but I'm still happy to be around such nice folks.\n- Work started again on Tuesday. Getting sorted and doing a deep dive into database performance analysis took the most time.\n- WordPress might be nice to use for some, but you really, REALLY need to know what you're doing. Otherwise one quite popular site that's behind a CDN might get close to kill a really big database server. 🙄\n- We have a big freezer in the cellar now. I measured before ordering so I could be sure it fit through the tight cellar door. After taking off the hinges it fit. And I got lucky that the steep stairs weren't a cm narrower. \n- 2023 feels really good so far. \n- I definitely feel changed since just a couple weeks ago. Didn't start with the new year but earlier. So lucky. \n- Running was painful this week. \n- These weeknotes are still fun. I had to remind myself through the week to just jot some notes down. And taking out a few to put to my private notes. And it most certainly helps that quite a lot are [posting](https://maique.eu/2023/01/15/thingsthisweek.html) [theirs](https://assbach.de/blog/wochenrueckblick-kw02-2023) [early](https://bln41.win/blog/wochenrueckblick-kw-02-2023) [on](https://maurice-renck.de/de/blog/2023/kw-2) [Sunday](https://lostfocus.de/2023/01/15/week-2-2023/).\n- I haven't used my camera in two weeks. It's something about the greyness outside. Maybe I should try some walks with a black&white film silmulation pre set.\n\n",
+				"date_published": "2023-01-15T21:41:15+01:00",
+				"url": "https://www.byzero.de/2023/01/15/week-a-tight.html",
+				"tags": ["weaknotes"]
+			},
+			{
 				"id": "http://muhh.micro.blog/2023/01/12/065703.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
