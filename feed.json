@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2023/06/12/death-is-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Death is THE constant.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"// Patrick Rhone\" data-author=\"Patrick Rhone\" cite=\"https://patrickrhone.micro.blog/2023/06/11/death-is-the.html\">\n<p>Death is the only promise life makes to us.</p>\n<footer>Patrick Rhone<cite> <a href=\"https://patrickrhone.micro.blog/2023/06/11/death-is-the.html\" class=\"u-in-reply-to\">// Patrick Rhone</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n\nDeath is THE constant. \n",
+				"date_published": "2023-06-12T09:22:42+02:00",
+				"url": "https://www.byzero.de/2023/06/12/death-is-the.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2023/06/06/happy-th-birthday.html",
+				
+				"content_html": "<p>Happy 18th birthday, <a href=\"https://wuerzblog.de/2023/06/06/18-geblogstag-in-der-ferne/\">wuerzblog</a>! 🎂</p>\n",
+				"content_text": "Happy 18th birthday, [wuerzblog](https://wuerzblog.de/2023/06/06/18-geblogstag-in-der-ferne/)! 🎂 \n",
+				"date_published": "2023-06-06T20:04:37+02:00",
+				"url": "https://www.byzero.de/2023/06/06/happy-th-birthday.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2023/06/04/hat-tip-stickerspotter.html",
 				
 				"content_html": "<p>Hat Tip <a href=\"https://micro.blog/stickerspotter\">@stickerspotter</a></p>\n<p><img src=\"https://www.byzero.de/uploads/2023/35e87d83b9.jpg\" alt=\"sticker on a pole in front of green bushes. \"></p>\n",
@@ -31,26 +47,10 @@
 				"url": "https://www.byzero.de/2023/06/01/we-should-treasure.html"
 			},
 			{
-				"id": "http://muhh.micro.blog/2023/05/31/finally-some-quiet.html",
-				
-				"content_html": "<p>Finally some quiet time</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finally some quiet time\n\n<img src=\"uploads/2023/0a9dc6bc6f.jpg\" width=\"480\" height=\"600\" alt=\"Forrest in the evening sun with moon rising\">\n",
-				"date_published": "2023-05-31T21:02:36+02:00",
-				"url": "https://www.byzero.de/2023/05/31/finally-some-quiet.html"
-			},
-			{
-				"id": "http://muhh.micro.blog/2023/05/31/wrote-the-personal.html",
-				
-				"content_html": "<p>🗒️ wrote the personal introduction for my new website, but since it&rsquo;s just only a folder with some markdown in Obsidian I&rsquo;ve added it to <a href=\"omg.muhh.lol\">my profile page</a> and as an introduction post on <a href=\"social.lol/%5B@muhh%5D(https://micro.blog/muhh)/1104639235362\">my mastodon</a>.</p>\n",
-				"content_text": "🗒️ wrote the personal introduction for my new website, but since it's just only a folder with some markdown in Obsidian I've added it to [my profile page](omg.muhh.lol) and as an introduction post on [my mastodon](social.lol/[@muhh](https://micro.blog/muhh)/1104639235362).\n",
-				"date_published": "2023-05-31T18:10:41+02:00",
-				"url": "https://www.byzero.de/2023/05/31/wrote-the-personal.html"
-			},
-			{
 				"id": "http://muhh.micro.blog/2023/05/29/theres-even-time.html",
 				
 				"content_html": "<p>There’s even time for the hammock</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "There’s even time for the hammock\n\n<img src=\"uploads/2023/a07c136240.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "There’s even time for the hammock\n\n<img src=\"https://cdn.uploads.micro.blog/279/2023/a07c136240.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-29T16:36:50+02:00",
 				"url": "https://www.byzero.de/2023/05/29/theres-even-time.html"
 			},
@@ -121,8 +121,8 @@
 			{
 				"id": "http://muhh.micro.blog/2023/03/18/dont-mind-me.html",
 				
-				"content_html": "<p><img src=\"https://www.byzero.de/uploads/2023/0dd1c19834.jpg\" alt=\"a tree cutter on a long stick, leaning on a cargo bike\"></p>\n<p>Don&rsquo;t mind me hunting some cars on this beautiful spring day.</p>\n",
-				"content_text": "![a tree cutter on a long stick, leaning on a cargo bike](https://www.byzero.de/uploads/2023/0dd1c19834.jpg)\n\nDon't mind me hunting some cars on this beautiful spring day. \n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/279/2023/0dd1c19834.jpg\" alt=\"a tree cutter on a long stick, leaning on a cargo bike\"></p>\n<p>Don&rsquo;t mind me hunting some cars on this beautiful spring day.</p>\n",
+				"content_text": "![a tree cutter on a long stick, leaning on a cargo bike](https://cdn.uploads.micro.blog/279/2023/0dd1c19834.jpg)\n\nDon't mind me hunting some cars on this beautiful spring day. \n",
 				"date_published": "2023-03-18T12:04:31+02:00",
 				"url": "https://www.byzero.de/2023/03/18/dont-mind-me.html"
 			},
