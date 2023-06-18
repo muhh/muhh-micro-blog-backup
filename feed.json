@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2023/06/18/we-picked-our.html",
+				
+				"content_html": "<p>🍒 we picked our part. The rest stays for the bird, wasps and bees.</p>\n<p><img src=\"https://www.byzero.de/uploads/2023/image.jpg\" alt=\"a bowl of deeply red cherries\"></p>\n",
+				"content_text": "🍒 we picked our part. The rest stays for the bird, wasps and bees.\n\n![a bowl of deeply red cherries](https://www.byzero.de/uploads/2023/image.jpg)\n",
+				"date_published": "2023-06-18T20:34:39+02:00",
+				"url": "https://www.byzero.de/2023/06/18/we-picked-our.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2023/06/12/death-is-the.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Death is THE constant.</p>\n",
@@ -45,6 +53,22 @@
 				"content_text": "<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Small communities are the best communities – Manu\" data-author=\"Manuel Moreale\" cite=\"https://manuelmoreale.com/small-communities-are-the-best-communities\">\n<p>We should treasure small online communities because small communities are the best communities. Blogs with a handful of dedicated readers, forums with fewer than fifty users, group chats with a dozen participants. Those are success stories. Not becoming huge can and should be seen as a good thing.</p>\n<footer>Manuel Moreale<cite> <a href=\"https://manuelmoreale.com/small-communities-are-the-best-communities\" class=\"u-in-reply-to\">Small communities are the best communities – Manu</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n\nWhich is why micro.blog does it right. Not metrics are important. Not likes, not numbers of reposts.  \nJust the connections. \n\n\n\n\n\n",
 				"date_published": "2023-06-01T17:40:32+02:00",
 				"url": "https://www.byzero.de/2023/06/01/we-should-treasure.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2023/05/31/finally-some-quiet.html",
+				
+				"content_html": "<p>Finally some quiet time</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Finally some quiet time\n\n<img src=\"https://cdn.uploads.micro.blog/279/2023/0a9dc6bc6f.jpg\" width=\"480\" height=\"600\" alt=\"Forrest in the evening sun with moon rising\">\n",
+				"date_published": "2023-05-31T21:02:36+02:00",
+				"url": "https://www.byzero.de/2023/05/31/finally-some-quiet.html"
+			},
+			{
+				"id": "http://muhh.micro.blog/2023/05/31/wrote-the-personal.html",
+				
+				"content_html": "<p>🗒️ wrote the personal introduction for my new website, but since it&rsquo;s just only a folder with some markdown in Obsidian I&rsquo;ve added it to <a href=\"omg.muhh.lol\">my profile page</a> and as an introduction post on <a href=\"social.lol/%5B@muhh%5D(https://micro.blog/muhh)/1104639235362\">my mastodon</a>.</p>\n",
+				"content_text": "🗒️ wrote the personal introduction for my new website, but since it's just only a folder with some markdown in Obsidian I've added it to [my profile page](omg.muhh.lol) and as an introduction post on [my mastodon](social.lol/[@muhh](https://micro.blog/muhh)/1104639235362).\n",
+				"date_published": "2023-05-31T18:10:41+02:00",
+				"url": "https://www.byzero.de/2023/05/31/wrote-the-personal.html"
 			},
 			{
 				"id": "http://muhh.micro.blog/2023/05/29/theres-even-time.html",
