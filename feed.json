@@ -7,10 +7,18 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2023/08/02/i-really-enjoy.html",
+				
+				"content_html": "<p>I really enjoy the rain, even during the wine hike last weekend.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I really enjoy the rain, even during the wine hike last weekend.\n\n<img src=\"uploads/2023/d3c6cf0f76.jpg\" width=\"450\" height=\"600\" alt=\"me in with a backpack, closed eyes, face to the skye, enjoying the rain. a wine glass on a rope hanging around my neck\">\n",
+				"date_published": "2023-08-02T21:06:59+02:00",
+				"url": "https://www.byzero.de/2023/08/02/i-really-enjoy.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2023/07/30/im-annoyed-how.html",
 				
-				"content_html": "<p>Im annoyed how I developed the same passive scrolling-only habit on <a href=\"https://social.lol/@muhh\">my mastodon account</a> and neglecting feeds and micro.blog.</p>\n<p>The mastodon apps are gone for now. No crossposting as well.</p>\n<p>Let’s see how the next weeks go.</p>\n",
-				"content_text": "Im annoyed how I developed the same passive scrolling-only habit on [my mastodon account](https://social.lol/@muhh) and neglecting feeds and micro.blog. \n  \nThe mastodon apps are gone for now. No crossposting as well. \n\nLet’s see how the next weeks go. \n",
+				"content_html": "<p>I’m annoyed how I developed the same passive scrolling-only habit on <a href=\"https://social.lol/@muhh\">my mastodon account</a> and neglected feeds and micro.blog.</p>\n<p>The mastodon apps are gone for now. No crossposting as well.</p>\n<p>Let’s see how the next weeks go.</p>\n",
+				"content_text": "I’m annoyed how I developed the same passive scrolling-only habit on [my mastodon account](https://social.lol/@muhh) and neglected feeds and micro.blog. \n\nThe mastodon apps are gone for now. No crossposting as well. \n\nLet’s see how the next weeks go. \n",
 				"date_published": "2023-07-30T21:11:58+02:00",
 				"url": "https://www.byzero.de/2023/07/30/im-annoyed-how.html"
 			},
