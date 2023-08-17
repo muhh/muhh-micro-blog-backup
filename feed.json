@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2023/08/14/i-really-miss.html",
+				
+				"content_html": "<p>I really miss a bit more flexibility in what is displayed in my timeline.<br>\nI would like to have RSS feeds that only show the posts but not the replies, and then another feed that only shows the replies but includes the whole conversation.</p>\n<p>So I&rsquo;m getting familiar with micro.blog&rsquo;s APIs.</p>\n",
+				"content_text": "I really miss a bit more flexibility in what is displayed in my timeline.   \nI would like to have RSS feeds that only show the posts but not the replies, and then another feed that only shows the replies but includes the whole conversation.\n\nSo I'm getting familiar with micro.blog's APIs. \n",
+				"date_published": "2023-08-14T18:54:06+02:00",
+				"url": "https://www.byzero.de/2023/08/14/i-really-miss.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2023/08/02/i-really-enjoy.html",
 				
 				"content_html": "<p>I really enjoy the rain, even during the wine hike last weekend.</p>\n<!-- raw HTML omitted -->\n",
