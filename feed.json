@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://muhh.micro.blog/2024/01/08/new-year-new.html",
+				
+				"content_html": "<p>New year, new colors.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New year, new colors. \n\n<img src=\"uploads/2024/8687790bf1.jpg\" width=\"600\" height=\"255\" alt=\"A mechanical keyboard with mainly black keycaps \">\n",
+				"date_published": "2024-01-08T15:36:27+01:00",
+				"url": "https://www.byzero.de/2024/01/08/new-year-new.html"
+			},
+			{
 				"id": "http://muhh.micro.blog/2023/12/31/copy-acquire-kill.html",
 				
 				"content_html": "<p>💫 <a href=\"https://www.fromjason.xyz/p/notebook/copy-acquire-kill-how-meta-could-pull-off-the-most-extraordinary-pivot-in-tech-history/\">Copy, Acquire, Kill— How Meta could pull off the most extraordinary pivot in tech history</a></p>\n<blockquote>\n<p>Meta&rsquo;s sudden interest in ActivityPub and Mastodon doesn&rsquo;t make much sense. There are a few impossibly consistent talking points floating through the Fediverse. Each tries to explain away the oddity of Meta&rsquo;s presence.<br>\nI don&rsquo;t buy any of it. This is a plan years in the making. And we&rsquo;re watching Meta&rsquo;s biggest hurdle play out in real-time.</p>\n</blockquote>\n<p>A very interesting POV that matches a lot how I see it. And reminds me of what „everyone“ told Twitter to create in its early stages (~&lt;= 2010): to provide plumbing aka infrastructure.</p>\n",
